@@ -1,0 +1,22 @@
+{
+  "name": "billboard_top_playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index.ts": "ts-node-dev index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "billboard-top-100": "^2.5.6",
+    "cache-manager": "^2.10.1",
+    "cache-manager-fs": "^1.0.8",
+    "pretty-ms": "^5.0.0",
+    "spotify-web-api-node": "^4.0.0",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.2"
+  }
+}
