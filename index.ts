@@ -2,9 +2,14 @@ const {getChart} = require('billboard-top-100');
 const cacheManager = require('cache-manager');
 const fsStore = require('cache-manager-fs');
 const memoryCache = cacheManager.caching({
-	store: fsStore,
+	store: fsStore.create({
+		path: 'cache',
+		ttl: 60*60*24*365,
+		maxsize: 1024*1024*1024,
+	}),
 	path: 'cache',
 	ttl: 60*60*24*365,
+	maxsize: 1024*1024*1024,
 });
 const prettyMilliseconds = require('pretty-ms');
 console.log('Starting');
@@ -32,6 +37,9 @@ async function fetchChartFromCache(dateYMD: string) {
 
 (async () => {
 	const start = new Date();
+	const done0 = new Date().getTime() - start.getTime();
+	console.log(prettyMilliseconds(done0));
+
 	const chart: any = await fetchChartFromCache('2001-08-27');
 	const done1 = new Date().getTime() - start.getTime();
 	console.log(prettyMilliseconds(done1));
