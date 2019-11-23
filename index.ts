@@ -1,3 +1,5 @@
+import * as fs from "fs";
+
 const {getChart} = require('billboard-top-100');
 const cache = require('cacache');
 const prettyMilliseconds = require('pretty-ms');
@@ -14,7 +16,12 @@ interface Song {
 		'Last Week': number;
 		'Peak Position': string;
 		'Wks on Chart': string;
-	}
+	},
+	from: {
+		date: string;
+		week: number;
+		pos: string;
+	};
 }
 
 interface Chart {
@@ -28,6 +35,10 @@ interface Chart {
 		date: string;
 		url: string;
 	},
+}
+
+interface YearWeeks {
+	[key: string]: moment.Moment[]
 }
 
 async function cacheGetSet(key: string, callback: Function) {
@@ -66,7 +77,7 @@ async function fetchChartFromCache(dateYMD: string): Promise<Chart> {
 
 function generateWeeks(since: string) {
 	const dates = [];
-	let date = moment('2001-08-27');
+	let date = moment(since);
 	do {
 		dates.push(date.clone());
 		date = date.add(1, 'week');
@@ -81,6 +92,7 @@ async function downloadAndCache(since: string) {
 			const chart: Chart = await fetchChartFromCache(date.format('Y-MM-DD'));
 		} catch (e) {
 			// go on to the next one
+			break;
 		}
 	}
 }
@@ -103,17 +115,66 @@ function splitWeeksByYear(weeks: any[]) {
 	return groups;
 }
 
+function dumpYearWeek(yearWeeks: YearWeeks) {
+	const yearWeeksNice = Object.values(yearWeeks).map((group: moment.Moment[]) => {
+		return group.map(d => d.format('Y-MM-DD'));
+	});
+	console.log(yearWeeksNice);
+}
+
+async function constructPlaylists(yearWeeks: YearWeeks) {
+	for (const year in Object.keys(yearWeeks)) {
+		console.log(year);
+		const playlist = await constructYearPlaylist(yearWeeks[year]);
+		dumpPlaylist(playlist);
+		fs.writeFileSync('playlist' + year + '.json', JSON.stringify(playlist, null, 4));
+	}
+}
+
+function playlistIncludes(playlist: Song[], song: Song): boolean {
+	return playlist.filter((el) => {
+		return el.title == song.title && el.artist == song.artist;
+	}).length > 0;
+}
+
+async function constructYearPlaylist(weeks: moment.Moment[]) {
+	const playlist = [];
+	for (const week of weeks) {
+		let ymd = week.format('Y-MM-DD');
+		const top100 = await fetchChartFromCache(ymd);
+		for (const i in top100.songs) {
+			const song = top100.songs[i];
+			if (!playlistIncludes(playlist, song)) {
+				song.from = {
+					date: ymd,
+					week: week.week(),
+					pos: i
+				};
+				playlist.push(song);
+				break;	// one top song only
+			}
+		}
+	}
+	return playlist;
+}
+
+function dumpPlaylist(playlist: Song[]) {
+	for (const song of playlist) {
+		console.log(song.from.week + ': ' + song.rank, "\t", song.artist, '-', song.title);
+	}
+}
+
 (async () => {
-	// downloadAndCache();
-	let since = '2001-08-27';
+	let since = '1990-01-01';
+	await downloadAndCache(since);
 	const date = moment(since);
 	// const chart: any = await fetchChartFromCache(date.format('Y-MM-DD'));
 	// dumpChart(chart);
 	const weeks = generateWeeks(since);
 	// console.log(weeks.map(d => d.format('Y-MM-DD')));
 	const yearWeeks = splitWeeksByYear(weeks);
-	const yearWeeksNice = Object.values(yearWeeks).map((group: moment.Moment[]) => {
-		return group.map(d => d.format('Y-MM-DD'));
-	});
-	console.log(yearWeeksNice);
+	// fs.writeFileSync('yearWeeks.json', JSON.stringify(yearWeeks, null, 4));
+
+	// dumpYearWeek(yearWeeks);
+	await constructPlaylists(yearWeeks);
 })();
