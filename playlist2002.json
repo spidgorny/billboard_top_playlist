@@ -1,0 +1,834 @@
+[
+    {
+        "rank": 1,
+        "title": "How You Remind Me",
+        "artist": "Nickelback",
+        "cover": "https://charts-static.billboard.com/img/2017/07/nickelback.jpg",
+        "position": {
+            "positionLastWeek": 1,
+            "peakPosition": 1,
+            "weeksOnChart": 19
+        },
+        "from": {
+            "date": "2002-01-07",
+            "week": 2,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 1,
+        "title": "U Got It Bad",
+        "artist": "Usher",
+        "cover": "https://charts-static.billboard.com/img/2001/08/usher-oqp.jpg",
+        "position": {
+            "positionLastWeek": 2,
+            "peakPosition": 1,
+            "weeksOnChart": 18
+        },
+        "from": {
+            "date": "2002-01-14",
+            "week": 3,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Always On Time",
+        "artist": "Ja Rule Featuring Ashanti",
+        "cover": "https://charts-static.billboard.com/img/2001/10/ja-rule-p2l.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 1,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2002-01-21",
+            "week": 4,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Get The Party Started",
+        "artist": "P!nk",
+        "cover": "https://charts-static.billboard.com/img/2001/10/pnk-e1s.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 4,
+            "weeksOnChart": 15
+        },
+        "from": {
+            "date": "2002-01-28",
+            "week": 5,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "My Sacrifice",
+        "artist": "Creed",
+        "cover": "https://charts-static.billboard.com/img/2001/10/creed-r7u.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 4,
+            "weeksOnChart": 16
+        },
+        "from": {
+            "date": "2002-02-04",
+            "week": 6,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Ain't It Funny",
+        "artist": "Jennifer Lopez Featuring Ja Rule",
+        "cover": "https://charts-static.billboard.com/img/2001/11/jennifer-lopez-eme.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 1,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "2002-02-11",
+            "week": 7,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "In The End",
+        "artist": "Linkin Park",
+        "cover": "https://charts-static.billboard.com/img/2001/05/linkin-park-brd.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 2,
+            "weeksOnChart": 17
+        },
+        "from": {
+            "date": "2002-02-18",
+            "week": 8,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Hey Baby",
+        "artist": "No Doubt Featuring Bounty Killer",
+        "cover": "https://charts-static.billboard.com/img/2001/11/no-doubt-qev.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 5,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "2002-02-25",
+            "week": 9,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Wherever You Will Go",
+        "artist": "The Calling",
+        "cover": "https://charts-static.billboard.com/img/2001/06/the-calling-ex1.jpg",
+        "position": {
+            "positionLastWeek": 7,
+            "peakPosition": 5,
+            "weeksOnChart": 18
+        },
+        "from": {
+            "date": "2002-03-04",
+            "week": 10,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "What About Us?",
+        "artist": "Brandy",
+        "cover": "https://charts-static.billboard.com/img/2002/01/brandy-khx.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 7,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "2002-03-11",
+            "week": 11,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Blurry",
+        "artist": "Puddle Of Mudd",
+        "cover": "https://charts-static.billboard.com/img/2001/09/puddle-of-mudd-nx0.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 5,
+            "weeksOnChart": 14
+        },
+        "from": {
+            "date": "2002-03-18",
+            "week": 12,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "What's Luv?",
+        "artist": "Fat Joe Featuring Ashanti",
+        "cover": "https://charts-static.billboard.com/img/2002/01/fat-joe-02a.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 2,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-03-25",
+            "week": 13,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Foolish",
+        "artist": "Ashanti",
+        "cover": "https://charts-static.billboard.com/img/2002/01/ashanti-pl5.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 1,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "2002-04-01",
+            "week": 14,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Girlfriend",
+        "artist": "'N Sync Featuring Nelly",
+        "cover": "https://charts-static.billboard.com/img/2002/01/n-sync-yuh.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 5,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "2002-04-08",
+            "week": 15,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "U Don't Have To Call",
+        "artist": "Usher",
+        "cover": "https://charts-static.billboard.com/img/2001/12/usher-oqp.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 3,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2002-04-15",
+            "week": 16,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "I Need A Girl (Part One)",
+        "artist": "P. Diddy Featuring Usher & Loon",
+        "cover": "https://charts-static.billboard.com/img/2002/02/puff-daddy-rb6.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 2,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-04-22",
+            "week": 17,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Oops (Oh My)",
+        "artist": "Tweet",
+        "cover": "https://charts-static.billboard.com/img/2001/12/tweet-ak0.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 7,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "2002-04-29",
+            "week": 18,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "A Thousand Miles",
+        "artist": "Vanessa Carlton",
+        "cover": "https://charts-static.billboard.com/img/2002/03/vanessa-carlton-vf8.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 5,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2002-05-06",
+            "week": 19,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "All You Wanted",
+        "artist": "Michelle Branch",
+        "cover": "https://charts-static.billboard.com/img/2002/01/michelle-branch-j3t.jpg",
+        "position": {
+            "positionLastWeek": 7,
+            "peakPosition": 6,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "2002-05-13",
+            "week": 20,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "The Middle",
+        "artist": "Jimmy Eat World",
+        "cover": "https://charts-static.billboard.com/img/2001/11/jimmy-eat-world-bkg.jpg",
+        "position": {
+            "positionLastWeek": 12,
+            "peakPosition": 5,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2002-05-20",
+            "week": 21,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Without Me",
+        "artist": "Eminem",
+        "cover": "https://charts-static.billboard.com/img/2002/05/eminem-1xq.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 2,
+            "weeksOnChart": 4
+        },
+        "from": {
+            "date": "2002-05-27",
+            "week": 22,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Hot In Herre",
+        "artist": "Nelly",
+        "cover": "https://charts-static.billboard.com/img/2002/05/nelly-fmf.jpg",
+        "position": {
+            "positionLastWeek": 7,
+            "peakPosition": 1,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2002-06-03",
+            "week": 23,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "Oh Boy",
+        "artist": "Cam'Ron Featuring Juelz Santana",
+        "cover": "https://charts-static.billboard.com/img/2002/02/camron-3dq.jpg",
+        "position": {
+            "positionLastWeek": 12,
+            "peakPosition": 4,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "2002-06-10",
+            "week": 24,
+            "pos": "8"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "Addictive",
+        "artist": "Truth Hurts Featuring Rakim",
+        "cover": "https://charts-static.billboard.com/img/2002/03/truth-hurts-b3p.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 9,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "2002-06-17",
+            "week": 25,
+            "pos": "8"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Hero",
+        "artist": "Chad Kroeger Featuring Josey Scott",
+        "cover": "https://charts-static.billboard.com/img/2002/04/chad-kroeger-o48.jpg",
+        "position": {
+            "positionLastWeek": 12,
+            "peakPosition": 3,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-06-24",
+            "week": 26,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 10,
+        "title": "I'm Gonna Be Alright",
+        "artist": "Jennifer Lopez Featuring Nas",
+        "cover": "https://charts-static.billboard.com/img/2002/04/jennifer-lopez-eme.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 10,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2002-07-01",
+            "week": 27,
+            "pos": "9"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Complicated",
+        "artist": "Avril Lavigne",
+        "cover": "https://charts-static.billboard.com/img/2002/04/avril-lavigne-517.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 7,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-07-08",
+            "week": 28,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "I Need A Girl (Part Two)",
+        "artist": "P. Diddy & Ginuwine Featuring Loon, Mario Winans & Tammy Ruggeri",
+        "cover": "https://charts-static.billboard.com/img/2002/05/puff-daddy-rb6.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 5,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-07-15",
+            "week": 29,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Dilemma",
+        "artist": "Nelly Featuring Kelly Rowland",
+        "cover": "https://charts-static.billboard.com/img/2002/07/nelly-fmf.jpg",
+        "position": {
+            "positionLastWeek": 26,
+            "peakPosition": 8,
+            "weeksOnChart": 3
+        },
+        "from": {
+            "date": "2002-07-22",
+            "week": 30,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Just A Friend 2002",
+        "artist": "Mario",
+        "cover": "https://charts-static.billboard.com/img/2002/04/mario-bu9.jpg",
+        "position": {
+            "positionLastWeek": 12,
+            "peakPosition": 7,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2002-07-29",
+            "week": 31,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Down 4 U",
+        "artist": "Irv Gotti Presents The Inc. Featuring Ja Rule, Ashanti, Charli Baltimore & Vita",
+        "cover": "https://charts-static.billboard.com/img/2002/05/irv-gotti-gey.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 7,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "2002-08-05",
+            "week": 32,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Just Like A Pill",
+        "artist": "P!nk",
+        "cover": "https://charts-static.billboard.com/img/2002/06/pnk-e1s.jpg",
+        "position": {
+            "positionLastWeek": 12,
+            "peakPosition": 8,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-08-12",
+            "week": 33,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Gangsta Lovin'",
+        "artist": "Eve Featuring Alicia Keys",
+        "cover": "https://charts-static.billboard.com/img/2002/07/eve-mfo.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 6,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-08-19",
+            "week": 34,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Long Time Gone",
+        "artist": "Dixie Chicks",
+        "cover": "https://charts-static.billboard.com/img/2002/06/dixie-chicks-1tn.jpg",
+        "position": {
+            "positionLastWeek": 13,
+            "peakPosition": 7,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2002-08-26",
+            "week": 35,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Cleanin' Out My Closet",
+        "artist": "Eminem",
+        "cover": "https://charts-static.billboard.com/img/2002/07/eminem-1xq.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 7,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2002-09-02",
+            "week": 36,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Happy",
+        "artist": "Ashanti",
+        "cover": "https://charts-static.billboard.com/img/2002/04/ashanti-pl5.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 8,
+            "weeksOnChart": 16
+        },
+        "from": {
+            "date": "2002-09-09",
+            "week": 37,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "One Last Breath",
+        "artist": "Creed",
+        "cover": "https://charts-static.billboard.com/img/2002/04/creed-r7u.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 7,
+            "weeksOnChart": 16
+        },
+        "from": {
+            "date": "2002-09-16",
+            "week": 38,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 10,
+        "title": "Gotta Get Thru This",
+        "artist": "Daniel Bedingfield",
+        "cover": "https://charts-static.billboard.com/img/2002/06/daniel-bedingfield-1t1.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 10,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "2002-09-23",
+            "week": 39,
+            "pos": "9"
+        }
+    },
+    {
+        "rank": 1,
+        "title": "A Moment Like This",
+        "artist": "Kelly Clarkson",
+        "cover": "https://charts-static.billboard.com/img/2002/09/kelly-clarkson-091.jpg",
+        "position": {
+            "positionLastWeek": 52,
+            "peakPosition": 1,
+            "weeksOnChart": 3
+        },
+        "from": {
+            "date": "2002-09-30",
+            "week": 40,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Hey Ma",
+        "artist": "Cam'Ron Featuring Juelz Santana, Freekey Zekey & Toya",
+        "cover": "https://charts-static.billboard.com/img/2002/07/camron-3dq.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 5,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-10-07",
+            "week": 41,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Work It",
+        "artist": "Missy \"Misdemeanor\" Elliott",
+        "cover": "https://charts-static.billboard.com/img/2002/09/missy-elliott-zjj.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 5,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2002-10-14",
+            "week": 42,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "cover": "https://charts-static.billboard.com/img/2002/10/eminem-1xq.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 6,
+            "weeksOnChart": 4
+        },
+        "from": {
+            "date": "2002-10-21",
+            "week": 43,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Luv U Better",
+        "artist": "LL Cool J",
+        "cover": "https://charts-static.billboard.com/img/2002/07/ll-cool-j-vs1.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 7,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2002-10-28",
+            "week": 44,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Underneath It All",
+        "artist": "No Doubt Featuring Lady Saw",
+        "cover": "https://charts-static.billboard.com/img/2002/08/no-doubt-qev.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 6,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2002-11-04",
+            "week": 45,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "The Game Of Love",
+        "artist": "Santana Featuring Michelle Branch",
+        "cover": "https://charts-static.billboard.com/img/2002/10/santana-fo5.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 7,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-11-11",
+            "week": 46,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Jenny From The Block",
+        "artist": "Jennifer Lopez Featuring Styles & Jadakiss",
+        "cover": "https://charts-static.billboard.com/img/2002/10/jennifer-lopez-eme.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 8,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-11-18",
+            "week": 47,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Gimme The Light",
+        "artist": "Sean Paul",
+        "cover": "https://charts-static.billboard.com/img/2002/04/sean-paul-uyx.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 8,
+            "weeksOnChart": 31
+        },
+        "from": {
+            "date": "2002-11-25",
+            "week": 48,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "'03 Bonnie & Clyde",
+        "artist": "Jay-Z Featuring Beyonce Knowles",
+        "cover": "https://charts-static.billboard.com/img/2002/10/jay-z-gbw.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 8,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2002-12-02",
+            "week": 49,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Air Force Ones",
+        "artist": "Nelly Featuring Kyjuan, Ali & Murphy Lee",
+        "cover": "https://charts-static.billboard.com/img/2002/09/nelly-fmf.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 7,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2002-12-09",
+            "week": 50,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Don't Mess With My Man",
+        "artist": "Nivea Featuring Brian & Brandon Casey",
+        "cover": "https://charts-static.billboard.com/img/2002/06/nivea-q2d.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 8,
+            "weeksOnChart": 20
+        },
+        "from": {
+            "date": "2002-12-16",
+            "week": 51,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Beautiful",
+        "artist": "Christina Aguilera",
+        "cover": "https://charts-static.billboard.com/img/2002/11/christina-aguilera-9ag.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 6,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2002-12-23",
+            "week": 52,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Bump, Bump, Bump",
+        "artist": "B2K & P. Diddy",
+        "cover": "https://charts-static.billboard.com/img/2002/11/b2k-xq8.jpg",
+        "position": {
+            "positionLastWeek": 7,
+            "peakPosition": 7,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2002-12-30",
+            "week": 1,
+            "pos": "6"
+        }
+    }
+]

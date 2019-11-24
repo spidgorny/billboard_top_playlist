@@ -1,0 +1,850 @@
+[
+    {
+        "rank": 1,
+        "title": "Another Day In Paradise",
+        "artist": "Phil Collins",
+        "cover": "https://charts-static.billboard.com/img/1989/11/phil-collins-zdh.jpg",
+        "position": {
+            "positionLastWeek": 1,
+            "peakPosition": 1,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "1990-01-01",
+            "week": 1,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Rhythm Nation",
+        "artist": "Janet Jackson",
+        "cover": "https://charts-static.billboard.com/img/1989/11/janet-jackson-9z4.jpg",
+        "position": {
+            "positionLastWeek": 2,
+            "peakPosition": 2,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "1990-01-08",
+            "week": 2,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 1,
+        "title": "How Am I Supposed To Live Without You",
+        "artist": "Michael Bolton",
+        "cover": "https://charts-static.billboard.com/img/1989/10/michael-bolton-hcc.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 1,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "1990-01-15",
+            "week": 3,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Pump Up The Jam",
+        "artist": "Technotronic Featuring Felly",
+        "cover": "https://charts-static.billboard.com/img/1989/09/technotronic-95d.jpg",
+        "position": {
+            "positionLastWeek": 2,
+            "peakPosition": 2,
+            "weeksOnChart": 16
+        },
+        "from": {
+            "date": "1990-01-22",
+            "week": 4,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Opposites Attract",
+        "artist": "Paula Abdul (Duet With The Wild Pair)",
+        "cover": "https://charts-static.billboard.com/img/1989/12/paula-abdul-3yb.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 2,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "1990-01-29",
+            "week": 5,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Two To Make It Right",
+        "artist": "Seduction",
+        "cover": "https://charts-static.billboard.com/img/1989/11/seduction-9vv.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 2,
+            "weeksOnChart": 14
+        },
+        "from": {
+            "date": "1990-02-05",
+            "week": 6,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Escapade",
+        "artist": "Janet Jackson",
+        "cover": "https://charts-static.billboard.com/img/1990/01/janet-jackson-9z4.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 3,
+            "weeksOnChart": 5
+        },
+        "from": {
+            "date": "1990-02-12",
+            "week": 7,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Dangerous",
+        "artist": "Roxette",
+        "cover": "https://charts-static.billboard.com/img/1989/12/roxette-qd2.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 3,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-02-19",
+            "week": 8,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Roam",
+        "artist": "The B-52s",
+        "cover": "https://charts-static.billboard.com/img/1989/12/the-b-52s-q44.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 4,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-02-26",
+            "week": 9,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Black Velvet",
+        "artist": "Alannah Myles",
+        "cover": "https://charts-static.billboard.com/img/1989/12/alannah-myles-6vr.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 4,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "1990-03-05",
+            "week": 10,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Love Will Lead You Back",
+        "artist": "Taylor Dayne",
+        "cover": "https://charts-static.billboard.com/img/1990/01/taylor-dayne-qas.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 4,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "1990-03-12",
+            "week": 11,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "I Wish It Would Rain Down",
+        "artist": "Phil Collins",
+        "cover": "https://charts-static.billboard.com/img/1989/12/phil-collins-zdh.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 5,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "1990-03-19",
+            "week": 12,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "I'll Be Your Everything",
+        "artist": "Tommy Page",
+        "cover": "https://charts-static.billboard.com/img/1990/02/tommy-page-w5f.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 4,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "1990-03-26",
+            "week": 13,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "All Around The World",
+        "artist": "Lisa Stansfield",
+        "cover": "https://charts-static.billboard.com/img/1990/01/lisa-stansfield-vtt.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "1990-04-02",
+            "week": 14,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Don't Wanna Fall In Love",
+        "artist": "Jane Child",
+        "cover": "https://charts-static.billboard.com/img/1990/02/jane-child-8o8.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 2,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "1990-04-09",
+            "week": 15,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 1,
+        "title": "Nothing Compares 2 U",
+        "artist": "Sinead O'Connor",
+        "cover": "https://charts-static.billboard.com/img/1990/02/sinead-oconnor-kzg.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 1,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "1990-04-16",
+            "week": 16,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "I Wanna Be Rich",
+        "artist": "Calloway",
+        "cover": "https://charts-static.billboard.com/img/1989/11/calloway-i8i.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 3,
+            "weeksOnChart": 12
+        },
+        "from": {
+            "date": "1990-04-23",
+            "week": 17,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "How Can We Be Lovers",
+        "artist": "Michael Bolton",
+        "cover": "https://charts-static.billboard.com/img/1990/03/michael-bolton-hcc.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "1990-04-30",
+            "week": 18,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Vogue",
+        "artist": "Madonna",
+        "cover": "https://charts-static.billboard.com/img/1990/04/madonna-rq3.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 2,
+            "weeksOnChart": 5
+        },
+        "from": {
+            "date": "1990-05-07",
+            "week": 19,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "All I Wanna Do Is Make Love To You",
+        "artist": "Heart",
+        "cover": "https://charts-static.billboard.com/img/1990/03/heart-2lh.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 3,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "1990-05-14",
+            "week": 20,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Hold On",
+        "artist": "Wilson Phillips",
+        "cover": "https://charts-static.billboard.com/img/1990/03/wilson-phillips-uks.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 4,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-05-21",
+            "week": 21,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Alright",
+        "artist": "Janet Jackson",
+        "cover": "https://charts-static.billboard.com/img/1990/04/janet-jackson-9z4.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 4,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "1990-05-28",
+            "week": 22,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Poison",
+        "artist": "Bell Biv DeVoe",
+        "cover": "https://charts-static.billboard.com/img/1990/04/bell-biv-devoe-221.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "1990-06-04",
+            "week": 23,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 1,
+        "title": "It Must Have Been Love (From \"Pretty Woman\")",
+        "artist": "Roxette",
+        "cover": "https://charts-static.billboard.com/img/1990/04/roxette-qd2.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 1,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-06-11",
+            "week": 24,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Step By Step",
+        "artist": "New Kids On The Block",
+        "cover": "https://charts-static.billboard.com/img/1990/05/new-kids-on-the-block-8hy.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 2,
+            "weeksOnChart": 5
+        },
+        "from": {
+            "date": "1990-06-18",
+            "week": 25,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Do You Remember?",
+        "artist": "Phil Collins",
+        "cover": "https://charts-static.billboard.com/img/1990/04/phil-collins-zdh.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 4,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "1990-06-25",
+            "week": 26,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "She Ain't Worth It",
+        "artist": "Glenn Medeiros Featuring Bobby Brown",
+        "cover": "https://charts-static.billboard.com/img/1990/05/glenn-medeiros-jqh.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 3,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "1990-07-02",
+            "week": 27,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Hold On",
+        "artist": "En Vogue",
+        "cover": "https://charts-static.billboard.com/img/1990/03/en-vogue-osy.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-07-09",
+            "week": 28,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Cradle Of Love (From \"Ford Fairlane\")",
+        "artist": "Billy Idol",
+        "cover": "https://charts-static.billboard.com/img/1990/05/billy-idol-2tl.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 12
+        },
+        "from": {
+            "date": "1990-07-16",
+            "week": 29,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Vision Of Love",
+        "artist": "Mariah Carey",
+        "cover": "https://charts-static.billboard.com/img/1990/06/mariah-carey-tgq.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 2,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "1990-07-23",
+            "week": 30,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Rub You The Right Way",
+        "artist": "Johnny Gill",
+        "cover": "https://charts-static.billboard.com/img/1990/03/johnny-gill-g85.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 3,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "1990-07-30",
+            "week": 31,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "The Power",
+        "artist": "Snap!",
+        "cover": "https://charts-static.billboard.com/img/1990/04/snap-awj.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 2,
+            "weeksOnChart": 14
+        },
+        "from": {
+            "date": "1990-08-06",
+            "week": 32,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Come Back To Me",
+        "artist": "Janet Jackson",
+        "cover": "https://charts-static.billboard.com/img/1990/11/janet-jackson-9z4.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 2,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "1990-08-13",
+            "week": 33,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "If Wishes Came True",
+        "artist": "Sweet Sensation",
+        "cover": "https://charts-static.billboard.com/img/1990/06/sweet-sensation-ph1.jpg",
+        "position": {
+            "positionLastWeek": 3,
+            "peakPosition": 3,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-08-20",
+            "week": 34,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Blaze Of Glory (From \"Young Guns II\")",
+        "artist": "Jon Bon Jovi",
+        "cover": "https://charts-static.billboard.com/img/1990/07/jon-bon-jovi-wuy.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 2,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "1990-08-27",
+            "week": 35,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Release Me",
+        "artist": "Wilson Phillips",
+        "cover": "https://charts-static.billboard.com/img/1990/06/wilson-phillips-uks.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 2,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-09-03",
+            "week": 36,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Do Me!",
+        "artist": "Bell Biv DeVoe",
+        "cover": "https://charts-static.billboard.com/img/1990/12/bell-biv-devoe-221.jpg",
+        "position": {
+            "positionLastWeek": 3,
+            "peakPosition": 3,
+            "weeksOnChart": 12
+        },
+        "from": {
+            "date": "1990-09-10",
+            "week": 37,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "(Can't Live Without Your) Love And Affection",
+        "artist": "Nelson",
+        "cover": "https://charts-static.billboard.com/img/1990/07/nelson-jbe.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 4,
+            "weeksOnChart": 12
+        },
+        "from": {
+            "date": "1990-09-17",
+            "week": 38,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Close To You",
+        "artist": "Maxi Priest",
+        "cover": "https://charts-static.billboard.com/img/1990/12/maxi-priest-k3c.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 2,
+            "weeksOnChart": 14
+        },
+        "from": {
+            "date": "1990-09-24",
+            "week": 39,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Praying For Time",
+        "artist": "George Michael",
+        "cover": "https://charts-static.billboard.com/img/1990/09/george-michael-6b3.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 2,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "1990-10-01",
+            "week": 40,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "I Don't Have The Heart",
+        "artist": "James Ingram",
+        "cover": "https://charts-static.billboard.com/img/1990/06/james-ingram-399.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-10-08",
+            "week": 41,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Black Cat",
+        "artist": "Janet Jackson",
+        "cover": "https://charts-static.billboard.com/img/1990/09/janet-jackson-9z4.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 2,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "1990-10-15",
+            "week": 42,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Ice Ice Baby",
+        "artist": "Vanilla Ice",
+        "cover": "https://charts-static.billboard.com/img/1990/09/vanilla-ice-yb6.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 3,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "1990-10-22",
+            "week": 43,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Love Takes Time",
+        "artist": "Mariah Carey",
+        "cover": "https://charts-static.billboard.com/img/1990/09/mariah-carey-tgq.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "1990-10-29",
+            "week": 44,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Pray",
+        "artist": "M.C. Hammer",
+        "cover": "https://assets.billboard.com/assets/1570131897/images/charts/bb-placeholder-new.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 2,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "1990-11-05",
+            "week": 45,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "More Than Words Can Say",
+        "artist": "Alias",
+        "cover": "https://charts-static.billboard.com/img/1990/09/alias-nwj.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 3,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-11-12",
+            "week": 46,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "I'm Your Baby Tonight",
+        "artist": "Whitney Houston",
+        "cover": "https://charts-static.billboard.com/img/1990/10/whitney-houston-m52.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "1990-11-19",
+            "week": 47,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Because I Love You (The Postman Song)",
+        "artist": "Stevie B",
+        "cover": "https://charts-static.billboard.com/img/1990/10/stevie-b-ir7.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "1990-11-26",
+            "week": 48,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "From A Distance",
+        "artist": "Bette Midler",
+        "cover": "https://charts-static.billboard.com/img/2000/01/bette-midler-7sa.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 3,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "1990-12-03",
+            "week": 49,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Justify My Love",
+        "artist": "Madonna",
+        "cover": "https://charts-static.billboard.com/img/1990/11/madonna-rq3.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 4,
+            "weeksOnChart": 5
+        },
+        "from": {
+            "date": "1990-12-10",
+            "week": 50,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Impulsive",
+        "artist": "Wilson Phillips",
+        "cover": "https://charts-static.billboard.com/img/1990/10/wilson-phillips-uks.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 4,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "1990-12-17",
+            "week": 51,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Tom's Diner",
+        "artist": "DNA Featuring Suzanne Vega",
+        "cover": "https://charts-static.billboard.com/img/1990/09/dna-as0.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 5,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "1990-12-24",
+            "week": 52,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "High Enough",
+        "artist": "Damn Yankees",
+        "cover": "https://charts-static.billboard.com/img/1990/09/damn-yankees-fey.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 4,
+            "weeksOnChart": 16
+        },
+        "from": {
+            "date": "1990-12-31",
+            "week": 1,
+            "pos": "3"
+        }
+    }
+]

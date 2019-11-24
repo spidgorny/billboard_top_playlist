@@ -1,0 +1,306 @@
+[
+    {
+        "rank": 1,
+        "title": "Fallin'",
+        "artist": "Alicia Keys",
+        "cover": "https://charts-static.billboard.com/img/2001/04/alicia-keys-xkr.jpg",
+        "position": {
+            "positionLastWeek": 1,
+            "peakPosition": 1,
+            "weeksOnChart": 12
+        },
+        "from": {
+            "date": "2001-08-27",
+            "week": 35,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 1,
+        "title": "I'm Real",
+        "artist": "Jennifer Lopez Featuring Ja Rule",
+        "cover": "https://charts-static.billboard.com/img/2001/06/jennifer-lopez-eme.jpg",
+        "position": {
+            "positionLastWeek": 2,
+            "peakPosition": 1,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "2001-09-03",
+            "week": 36,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 3,
+        "title": "Where The Party At",
+        "artist": "Jagged Edge With Nelly",
+        "cover": "https://charts-static.billboard.com/img/2001/05/jagged-edge-o2z.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 3,
+            "weeksOnChart": 16
+        },
+        "from": {
+            "date": "2001-09-10",
+            "week": 37,
+            "pos": "2"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Hit 'Em Up Style (Oops!)",
+        "artist": "Blu Cantrell",
+        "cover": "https://charts-static.billboard.com/img/2001/03/blu-cantrell-47s.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 2,
+            "weeksOnChart": 21
+        },
+        "from": {
+            "date": "2001-09-17",
+            "week": 38,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "U Remind Me",
+        "artist": "Usher",
+        "cover": "https://charts-static.billboard.com/img/2001/05/usher-oqp.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 1,
+            "weeksOnChart": 16
+        },
+        "from": {
+            "date": "2001-09-24",
+            "week": 39,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Family Affair",
+        "artist": "Mary J. Blige",
+        "cover": "https://charts-static.billboard.com/img/2001/07/mary-j-blige-hn0.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 1,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2001-10-01",
+            "week": 40,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "It's Been Awhile",
+        "artist": "Staind",
+        "cover": "https://charts-static.billboard.com/img/2001/03/staind-cef.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 5,
+            "weeksOnChart": 27
+        },
+        "from": {
+            "date": "2001-10-08",
+            "week": 41,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Differences",
+        "artist": "Ginuwine",
+        "cover": "https://charts-static.billboard.com/img/1840/12/ginuwine-q7a.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 4,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "2001-10-15",
+            "week": 42,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "The Star Spangled Banner",
+        "artist": "Whitney Houston",
+        "cover": "https://charts-static.billboard.com/img/1991/02/whitney-houston-m52.jpg",
+        "position": {
+            "positionLastWeek": 13,
+            "peakPosition": 6,
+            "weeksOnChart": 16
+        },
+        "from": {
+            "date": "2001-10-22",
+            "week": 43,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Hero",
+        "artist": "Enrique Iglesias",
+        "cover": "https://charts-static.billboard.com/img/2001/09/enrique-iglesias-m5f.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 3,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2001-10-29",
+            "week": 44,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Turn Off The Light",
+        "artist": "Nelly Furtado",
+        "cover": "https://charts-static.billboard.com/img/2001/08/nelly-furtado-ezw.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 5,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "2001-11-05",
+            "week": 45,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "U Got It Bad",
+        "artist": "Usher",
+        "cover": "https://charts-static.billboard.com/img/2001/08/usher-oqp.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 1,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "2001-11-12",
+            "week": 46,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "How You Remind Me",
+        "artist": "Nickelback",
+        "cover": "https://charts-static.billboard.com/img/2017/07/nickelback.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 1,
+            "weeksOnChart": 12
+        },
+        "from": {
+            "date": "2001-11-19",
+            "week": 47,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Livin' It Up",
+        "artist": "Ja Rule Featuring Case",
+        "cover": "https://charts-static.billboard.com/img/2001/08/ja-rule-p2l.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 6,
+            "weeksOnChart": 14
+        },
+        "from": {
+            "date": "2001-11-26",
+            "week": 48,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "Get The Party Started",
+        "artist": "P!nk",
+        "cover": "https://charts-static.billboard.com/img/2001/10/pnk-e1s.jpg",
+        "position": {
+            "positionLastWeek": 13,
+            "peakPosition": 4,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2001-12-03",
+            "week": 49,
+            "pos": "8"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "Whenever, Wherever",
+        "artist": "Shakira",
+        "cover": "https://charts-static.billboard.com/img/2001/09/shakira-mhe.jpg",
+        "position": {
+            "positionLastWeek": 14,
+            "peakPosition": 6,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "2001-12-10",
+            "week": 50,
+            "pos": "8"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "Always On Time",
+        "artist": "Ja Rule Featuring Ashanti",
+        "cover": "https://charts-static.billboard.com/img/2001/10/ja-rule-p2l.jpg",
+        "position": {
+            "positionLastWeek": 13,
+            "peakPosition": 1,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2001-12-17",
+            "week": 51,
+            "pos": "8"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "My Sacrifice",
+        "artist": "Creed",
+        "cover": "https://charts-static.billboard.com/img/2001/10/creed-r7u.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 4,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "2001-12-24",
+            "week": 52,
+            "pos": "8"
+        }
+    },
+    {
+        "rank": 10,
+        "title": "A Woman's Worth",
+        "artist": "Alicia Keys",
+        "cover": "https://charts-static.billboard.com/img/2001/09/alicia-keys-xkr.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 7,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2001-12-31",
+            "week": 1,
+            "pos": "9"
+        }
+    }
+]
