@@ -1,0 +1,834 @@
+[
+	{
+		"rank": 1,
+		"title": "Justify My Love",
+		"artist": "Madonna",
+		"cover": "https://charts-static.billboard.com/img/1990/11/madonna-rq3.jpg",
+		"position": {
+			"positionLastWeek": 1,
+			"peakPosition": 1,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1991-01-07",
+			"week": 2,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 1,
+		"title": "Love Will Never Do (Without You)",
+		"artist": "Janet Jackson",
+		"cover": "https://charts-static.billboard.com/img/1990/11/janet-jackson-9z4.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 1,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1991-01-14",
+			"week": 3,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 1,
+		"title": "The First Time",
+		"artist": "Surface",
+		"cover": "https://charts-static.billboard.com/img/1990/11/surface-nbv.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 1,
+			"weeksOnChart": 13
+		},
+		"from": {
+			"date": "1991-01-21",
+			"week": 4,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "Gonna Make You Sweat (Everybody Dance Now)",
+		"artist": "C+C Music Factory",
+		"cover": "https://assets.billboard.com/assets/1570131897/images/charts/bb-placeholder-new.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 2,
+			"weeksOnChart": 12
+		},
+		"from": {
+			"date": "1991-01-28",
+			"week": 5,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "All The Man That I Need",
+		"artist": "Whitney Houston",
+		"cover": "https://charts-static.billboard.com/img/1990/12/whitney-houston-m52.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 3,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1991-02-04",
+			"week": 6,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "One More Try",
+		"artist": "Timmy T.",
+		"cover": "https://assets.billboard.com/assets/1570131897/images/charts/bb-placeholder-new.jpg",
+		"position": {
+			"positionLastWeek": 9,
+			"peakPosition": 3,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1991-02-11",
+			"week": 7,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Someday",
+		"artist": "Mariah Carey",
+		"cover": "https://charts-static.billboard.com/img/1990/12/mariah-carey-tgq.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 4,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1991-02-18",
+			"week": 8,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Where Does My Heart Beat Now",
+		"artist": "Celine Dion",
+		"cover": "https://charts-static.billboard.com/img/1990/10/celine-dion-0hi.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 4,
+			"weeksOnChart": 13
+		},
+		"from": {
+			"date": "1991-02-25",
+			"week": 9,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Show Me The Way",
+		"artist": "Styx",
+		"cover": "https://charts-static.billboard.com/img/1990/12/styx-2ra.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 5,
+			"weeksOnChart": 14
+		},
+		"from": {
+			"date": "1991-03-04",
+			"week": 10,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Coming Out Of The Dark",
+		"artist": "Gloria Estefan",
+		"cover": "https://charts-static.billboard.com/img/1991/01/gloria-estefan-7bs.jpg",
+		"position": {
+			"positionLastWeek": 9,
+			"peakPosition": 4,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1991-03-11",
+			"week": 11,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "This House",
+		"artist": "Tracie Spencer",
+		"cover": "https://charts-static.billboard.com/img/1990/12/tracie-spencer-r57.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 4,
+			"weeksOnChart": 14
+		},
+		"from": {
+			"date": "1991-03-18",
+			"week": 12,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Hold You Tight",
+		"artist": "Tara Kemp",
+		"cover": "https://charts-static.billboard.com/img/1991/01/tara-kemp-1rt.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 4,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1991-03-25",
+			"week": 13,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "I've Been Thinking About You",
+		"artist": "Londonbeat",
+		"cover": "https://charts-static.billboard.com/img/1991/01/londonbeat-guk.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 2,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1991-04-01",
+			"week": 14,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "You're In Love",
+		"artist": "Wilson Phillips",
+		"cover": "https://charts-static.billboard.com/img/1991/02/wilson-phillips-uks.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 2,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1991-04-08",
+			"week": 15,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "Baby Baby",
+		"artist": "Amy Grant",
+		"cover": "https://charts-static.billboard.com/img/1991/02/amy-grant-bra.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 2,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1991-04-15",
+			"week": 16,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "Joyride",
+		"artist": "Roxette",
+		"cover": "https://charts-static.billboard.com/img/1991/03/roxette-qd2.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 2,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1991-04-22",
+			"week": 17,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "I Like The Way (The Kissing Game)",
+		"artist": "Hi-Five",
+		"cover": "https://charts-static.billboard.com/img/1991/01/hi-five-i9q.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 3,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1991-04-29",
+			"week": 18,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Here We Go",
+		"artist": "C+C Music Factory/F. Williams",
+		"cover": "https://assets.billboard.com/assets/1570131897/images/charts/bb-placeholder-new.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 4,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1991-05-06",
+			"week": 19,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "Touch Me (All Night Long)",
+		"artist": "Cathy Dennis",
+		"cover": "https://charts-static.billboard.com/img/1984/12/cathy-dennis-jqj.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 2,
+			"weeksOnChart": 12
+		},
+		"from": {
+			"date": "1991-05-13",
+			"week": 20,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 1,
+		"title": "I Don't Wanna Cry",
+		"artist": "Mariah Carey",
+		"cover": "https://charts-static.billboard.com/img/1991/04/mariah-carey-tgq.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 1,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1991-05-20",
+			"week": 21,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "More Than Words",
+		"artist": "Extreme",
+		"cover": "https://charts-static.billboard.com/img/1991/03/extreme-rt4.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 2,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1991-05-27",
+			"week": 22,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "I Wanna Sex You Up (From \"New Jack City\")",
+		"artist": "Color Me Badd",
+		"cover": "https://charts-static.billboard.com/img/1991/04/color-me-badd-cop.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 2,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1991-06-03",
+			"week": 23,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 1,
+		"title": "Rush Rush",
+		"artist": "Paula Abdul",
+		"cover": "https://charts-static.billboard.com/img/1991/05/paula-abdul-3yb.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 1,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1991-06-10",
+			"week": 24,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Losing My Religion",
+		"artist": "R.E.M.",
+		"cover": "https://charts-static.billboard.com/img/1991/03/rem-w4l.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 4,
+			"weeksOnChart": 12
+		},
+		"from": {
+			"date": "1991-06-17",
+			"week": 25,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Unbelievable",
+		"artist": "EMF",
+		"cover": "https://charts-static.billboard.com/img/1991/02/emf-2to.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 3,
+			"weeksOnChart": 12
+		},
+		"from": {
+			"date": "1991-06-24",
+			"week": 26,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Power Of Love/Love Power",
+		"artist": "Luther Vandross",
+		"cover": "https://charts-static.billboard.com/img/1991/04/luther-vandross-wv3.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 4,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1991-07-01",
+			"week": 27,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Right Here, Right Now",
+		"artist": "Jesus Jones",
+		"cover": "https://charts-static.billboard.com/img/1991/01/jesus-jones-y07.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 3,
+			"weeksOnChart": 14
+		},
+		"from": {
+			"date": "1991-07-08",
+			"week": 28,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "(Everything I Do) I Do It For You",
+		"artist": "Bryan Adams",
+		"cover": "https://charts-static.billboard.com/img/1991/06/bryan-adams-xrt.jpg",
+		"position": {
+			"positionLastWeek": 14,
+			"peakPosition": 4,
+			"weeksOnChart": 4
+		},
+		"from": {
+			"date": "1991-07-15",
+			"week": 29,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "P.A.S.S.I.O.N.",
+		"artist": "Rhythm Syndicate",
+		"cover": "https://charts-static.billboard.com/img/1991/05/rhythm-syndicate-o8w.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 4,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1991-07-22",
+			"week": 30,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Summertime",
+		"artist": "D.J. Jazzy Jeff & The Fresh Prince",
+		"cover": "https://assets.billboard.com/assets/1570131897/images/charts/bb-placeholder-new.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 4,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1991-07-29",
+			"week": 31,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Every Heartbeat",
+		"artist": "Amy Grant",
+		"cover": "https://charts-static.billboard.com/img/1991/06/amy-grant-bra.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 3,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1991-08-05",
+			"week": 32,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "It Ain't Over 'til It's Over",
+		"artist": "Lenny Kravitz",
+		"cover": "https://charts-static.billboard.com/img/1991/06/lenny-kravitz-jjg.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 3,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1991-08-12",
+			"week": 33,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Fading Like A Flower (Every Time You Leave)",
+		"artist": "Roxette",
+		"cover": "https://charts-static.billboard.com/img/1991/06/roxette-qd2.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 4,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1991-08-19",
+			"week": 34,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Wind Of Change",
+		"artist": "Scorpions",
+		"cover": "https://charts-static.billboard.com/img/1991/04/scorpions-ydn.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 4,
+			"weeksOnChart": 14
+		},
+		"from": {
+			"date": "1991-08-26",
+			"week": 35,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "The Promise Of A New Day",
+		"artist": "Paula Abdul",
+		"cover": "https://charts-static.billboard.com/img/1991/06/paula-abdul-3yb.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 2,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1991-09-02",
+			"week": 36,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "I Adore Mi Amor",
+		"artist": "Color Me Badd",
+		"cover": "https://charts-static.billboard.com/img/1991/07/color-me-badd-cop.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 2,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1991-09-09",
+			"week": 37,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "Good Vibrations",
+		"artist": "Marky Mark & The Funky Bunch Featuring Loleatta Holloway",
+		"cover": "https://charts-static.billboard.com/img/1991/07/marky-mark-the-funky-bunch-8b0.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 2,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1991-09-16",
+			"week": 38,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Motownphilly",
+		"artist": "Boyz II Men",
+		"cover": "https://charts-static.billboard.com/img/1991/04/boyz-ii-men-iur.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 3,
+			"weeksOnChart": 16
+		},
+		"from": {
+			"date": "1991-09-23",
+			"week": 39,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Emotions",
+		"artist": "Mariah Carey",
+		"cover": "https://charts-static.billboard.com/img/1991/08/mariah-carey-tgq.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 3,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1991-09-30",
+			"week": 40,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Do Anything",
+		"artist": "Natural Selection",
+		"cover": "https://assets.billboard.com/assets/1570131897/images/charts/bb-placeholder-new.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 3,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1991-10-07",
+			"week": 41,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Romantic",
+		"artist": "Karyn White",
+		"cover": "https://charts-static.billboard.com/img/1991/08/karyn-white-7np.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 3,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1991-10-14",
+			"week": 42,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Hole Hearted",
+		"artist": "Extreme",
+		"cover": "https://charts-static.billboard.com/img/1991/06/extreme-rt4.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 4,
+			"weeksOnChart": 13
+		},
+		"from": {
+			"date": "1991-10-21",
+			"week": 43,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Cream",
+		"artist": "Prince And The N.P.G.",
+		"cover": "https://charts-static.billboard.com/img/1991/09/prince-vp8.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 3,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1991-10-28",
+			"week": 44,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Can't Stop This Thing We Started",
+		"artist": "Bryan Adams",
+		"cover": "https://charts-static.billboard.com/img/1991/09/bryan-adams-xrt.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 3,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1991-11-04",
+			"week": 45,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "When A Man Loves A Woman",
+		"artist": "Michael Bolton",
+		"cover": "https://charts-static.billboard.com/img/1991/08/michael-bolton-hcc.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 3,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1991-11-11",
+			"week": 46,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Set Adrift On Memory Bliss",
+		"artist": "P.M. Dawn",
+		"cover": "https://charts-static.billboard.com/img/1991/10/pm-dawn-6qa.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 3,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1991-11-18",
+			"week": 47,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Black Or White",
+		"artist": "Michael Jackson",
+		"cover": "https://charts-static.billboard.com/img/1991/11/michael-jackson-9to.jpg",
+		"position": {
+			"positionLastWeek": 35,
+			"peakPosition": 3,
+			"weeksOnChart": 2
+		},
+		"from": {
+			"date": "1991-11-25",
+			"week": 48,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "It's So Hard To Say Goodbye To Yesterday",
+		"artist": "Boyz II Men",
+		"cover": "https://charts-static.billboard.com/img/1991/08/boyz-ii-men-iur.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 4,
+			"weeksOnChart": 12
+		},
+		"from": {
+			"date": "1991-12-02",
+			"week": 49,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "All 4 Love",
+		"artist": "Color Me Badd",
+		"cover": "https://charts-static.billboard.com/img/1991/10/color-me-badd-cop.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 5,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1991-12-09",
+			"week": 50,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Can't Let Go",
+		"artist": "Mariah Carey",
+		"cover": "https://charts-static.billboard.com/img/1991/10/mariah-carey-tgq.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 6,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1991-12-16",
+			"week": 51,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 7,
+		"title": "Blowing Kisses In The Wind",
+		"artist": "Paula Abdul",
+		"cover": "https://charts-static.billboard.com/img/1991/10/paula-abdul-3yb.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 6,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1991-12-23",
+			"week": 52,
+			"pos": "6"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Finally",
+		"artist": "CeCe Peniston",
+		"cover": "https://assets.billboard.com/assets/1570131897/images/charts/bb-placeholder-new.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 6,
+			"weeksOnChart": 15
+		},
+		"from": {
+			"date": "1991-12-30",
+			"week": 1,
+			"pos": "5"
+		}
+	}
+]

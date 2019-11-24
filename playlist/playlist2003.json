@@ -1,0 +1,658 @@
+[
+    {
+        "rank": 1,
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "cover": "https://charts-static.billboard.com/img/2002/10/eminem-1xq.jpg",
+        "position": {
+            "positionLastWeek": 1,
+            "peakPosition": 1,
+            "weeksOnChart": 15
+        },
+        "from": {
+            "date": "2003-01-06",
+            "week": 2,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Work It",
+        "artist": "Missy \"Misdemeanor\" Elliott",
+        "cover": "https://charts-static.billboard.com/img/2002/09/missy-elliott-zjj.jpg",
+        "position": {
+            "positionLastWeek": 2,
+            "peakPosition": 2,
+            "weeksOnChart": 19
+        },
+        "from": {
+            "date": "2003-01-13",
+            "week": 3,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Bump, Bump, Bump",
+        "artist": "B2K & P. Diddy",
+        "cover": "https://charts-static.billboard.com/img/2002/11/b2k-xq8.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 2,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "2003-01-20",
+            "week": 4,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Beautiful",
+        "artist": "Christina Aguilera",
+        "cover": "https://charts-static.billboard.com/img/2002/11/christina-aguilera-9ag.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 2,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2003-01-27",
+            "week": 5,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 1,
+        "title": "All I Have",
+        "artist": "Jennifer Lopez Featuring LL Cool J",
+        "cover": "https://charts-static.billboard.com/img/2002/12/jennifer-lopez-eme.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 1,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2003-02-03",
+            "week": 6,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Mesmerize",
+        "artist": "Ja Rule Featuring Ashanti",
+        "cover": "https://charts-static.billboard.com/img/2002/12/ja-rule-p2l.jpg",
+        "position": {
+            "positionLastWeek": 5,
+            "peakPosition": 2,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "2003-02-10",
+            "week": 7,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "In Da Club",
+        "artist": "50 Cent",
+        "cover": "https://charts-static.billboard.com/img/2002/12/50-cent-9ay.jpg",
+        "position": {
+            "positionLastWeek": 4,
+            "peakPosition": 2,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2003-02-17",
+            "week": 8,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Miss You",
+        "artist": "Aaliyah",
+        "cover": "https://charts-static.billboard.com/img/2002/11/aaliyah-3rl.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 5,
+            "weeksOnChart": 14
+        },
+        "from": {
+            "date": "2003-02-24",
+            "week": 9,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Cry Me A River",
+        "artist": "Justin Timberlake",
+        "cover": "https://charts-static.billboard.com/img/2002/12/justin-timberlake-wmm.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 3,
+            "weeksOnChart": 12
+        },
+        "from": {
+            "date": "2003-03-03",
+            "week": 10,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Ignition",
+        "artist": "R. Kelly",
+        "cover": "https://charts-static.billboard.com/img/2002/10/r-kelly-ct9.jpg",
+        "position": {
+            "positionLastWeek": 12,
+            "peakPosition": 6,
+            "weeksOnChart": 19
+        },
+        "from": {
+            "date": "2003-03-10",
+            "week": 11,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Picture",
+        "artist": "Kid Rock Featuring Sheryl Crow",
+        "cover": "https://charts-static.billboard.com/img/2002/10/kid-rock-qaf.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 6,
+            "weeksOnChart": 17
+        },
+        "from": {
+            "date": "2003-03-17",
+            "week": 12,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "How You Gonna Act Like That",
+        "artist": "Tyrese",
+        "cover": "https://charts-static.billboard.com/img/2002/10/tyrese-i7c.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 7,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "2003-03-24",
+            "week": 13,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Get Busy",
+        "artist": "Sean Paul",
+        "cover": "https://charts-static.billboard.com/img/2003/02/sean-paul-uyx.jpg",
+        "position": {
+            "positionLastWeek": 16,
+            "peakPosition": 6,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2003-03-31",
+            "week": 14,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "When I'm Gone",
+        "artist": "3 Doors Down",
+        "cover": "https://charts-static.billboard.com/img/2002/10/3-doors-down-qu6.jpg",
+        "position": {
+            "positionLastWeek": 7,
+            "peakPosition": 6,
+            "weeksOnChart": 21
+        },
+        "from": {
+            "date": "2003-04-07",
+            "week": 15,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Beautiful",
+        "artist": "Snoop Dogg Featuring Pharrell & Uncle Charlie Wilson",
+        "cover": "https://charts-static.billboard.com/img/2002/12/snoop-dogg-7vk.jpg",
+        "position": {
+            "positionLastWeek": 7,
+            "peakPosition": 7,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2003-04-14",
+            "week": 16,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "21 Questions",
+        "artist": "50 Cent Featuring Nate Dogg",
+        "cover": "https://charts-static.billboard.com/img/2003/02/50-cent-9ay.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 5,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2003-04-21",
+            "week": 17,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "God Bless The U.S.A.",
+        "artist": "American Idol Finalists",
+        "cover": "https://charts-static.billboard.com/img/2003/05/clay-aiken-xl4.jpg",
+        "position": {
+            "positionLastWeek": null,
+            "peakPosition": 4,
+            "weeksOnChart": 1
+        },
+        "from": {
+            "date": "2003-04-28",
+            "week": 18,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Rock Your Body",
+        "artist": "Justin Timberlake",
+        "cover": "https://charts-static.billboard.com/img/2003/03/justin-timberlake-wmm.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 5,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "2003-05-05",
+            "week": 19,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Can't Let You Go",
+        "artist": "Fabolous Featuring Mike Shorey & Lil' Mo",
+        "cover": "https://charts-static.billboard.com/img/2003/02/fabolous-3lg.jpg",
+        "position": {
+            "positionLastWeek": 7,
+            "peakPosition": 5,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2003-05-12",
+            "week": 20,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "I Know What You Want",
+        "artist": "Busta Rhymes & Mariah Carey Featuring The Flipmode Squad",
+        "cover": "https://charts-static.billboard.com/img/2002/12/busta-rhymes-sbv.jpg",
+        "position": {
+            "positionLastWeek": 6,
+            "peakPosition": 4,
+            "weeksOnChart": 12
+        },
+        "from": {
+            "date": "2003-05-19",
+            "week": 21,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Bring Me To Life",
+        "artist": "Evanescence Featuring Paul McCoy",
+        "cover": "https://charts-static.billboard.com/img/2003/01/evanescence-d6v.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 6,
+            "weeksOnChart": 12
+        },
+        "from": {
+            "date": "2003-05-26",
+            "week": 22,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Magic Stick",
+        "artist": "Lil' Kim Featuring 50 Cent",
+        "cover": "https://charts-static.billboard.com/img/2003/03/lil-kim-nk8.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 8,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2003-06-02",
+            "week": 23,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Crazy In Love",
+        "artist": "Beyonce Featuring Jay Z",
+        "cover": "https://charts-static.billboard.com/img/1840/12/beyonce-hk0.jpg",
+        "position": {
+            "positionLastWeek": 13,
+            "peakPosition": 8,
+            "weeksOnChart": 4
+        },
+        "from": {
+            "date": "2003-06-09",
+            "week": 24,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Unwell",
+        "artist": "matchbox twenty",
+        "cover": "https://charts-static.billboard.com/img/2003/02/matchbox-twenty-cm2.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 8,
+            "weeksOnChart": 14
+        },
+        "from": {
+            "date": "2003-06-16",
+            "week": 25,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 1,
+        "title": "This Is The Night",
+        "artist": "Clay Aiken",
+        "cover": "https://charts-static.billboard.com/img/2003/06/clay-aiken-xl4.jpg",
+        "position": {
+            "positionLastWeek": null,
+            "peakPosition": 1,
+            "weeksOnChart": 1
+        },
+        "from": {
+            "date": "2003-06-23",
+            "week": 26,
+            "pos": "0"
+        }
+    },
+    {
+        "rank": 2,
+        "title": "Flying Without Wings",
+        "artist": "Ruben Studdard",
+        "cover": "https://charts-static.billboard.com/img/2003/06/ruben-studdard-7wp.jpg",
+        "position": {
+            "positionLastWeek": 2,
+            "peakPosition": 2,
+            "weeksOnChart": 2
+        },
+        "from": {
+            "date": "2003-06-30",
+            "week": 27,
+            "pos": "1"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Rock Wit U (Awww Baby)",
+        "artist": "Ashanti",
+        "cover": "https://charts-static.billboard.com/img/2003/05/ashanti-pl5.jpg",
+        "position": {
+            "positionLastWeek": 7,
+            "peakPosition": 4,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "2003-07-07",
+            "week": 28,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Right Thurr",
+        "artist": "Chingy",
+        "cover": "https://charts-static.billboard.com/img/2003/04/chingy-pez.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 4,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "2003-07-14",
+            "week": 29,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 5,
+        "title": "Never Leave You - Uh Ooh, Uh Oooh!",
+        "artist": "Lumidee",
+        "cover": "https://charts-static.billboard.com/img/2003/05/lumidee-mkk.jpg",
+        "position": {
+            "positionLastWeek": 10,
+            "peakPosition": 5,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "2003-07-21",
+            "week": 30,
+            "pos": "4"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "P.I.M.P.",
+        "artist": "50 Cent",
+        "cover": "https://charts-static.billboard.com/img/2003/03/50-cent-9ay.jpg",
+        "position": {
+            "positionLastWeek": 13,
+            "peakPosition": 7,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "2003-07-28",
+            "week": 31,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Where Is The Love?",
+        "artist": "The Black Eyed Peas",
+        "cover": "https://charts-static.billboard.com/img/2003/05/the-black-eyed-peas-b9u.jpg",
+        "position": {
+            "positionLastWeek": 12,
+            "peakPosition": 8,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "2003-08-04",
+            "week": 32,
+            "pos": "7"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "Into You",
+        "artist": "Fabolous Featuring Tamia Or Ashanti",
+        "cover": "https://charts-static.billboard.com/img/2003/05/fabolous-3lg.jpg",
+        "position": {
+            "positionLastWeek": 11,
+            "peakPosition": 9,
+            "weeksOnChart": 10
+        },
+        "from": {
+            "date": "2003-08-11",
+            "week": 33,
+            "pos": "8"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Shake Ya Tailfeather",
+        "artist": "Nelly, P. Diddy & Murphy Lee",
+        "cover": "https://charts-static.billboard.com/img/2003/06/nelly-fmf.jpg",
+        "position": {
+            "positionLastWeek": 12,
+            "peakPosition": 4,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "2003-08-18",
+            "week": 34,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 6,
+        "title": "Get Low",
+        "artist": "Lil Jon & The East Side Boyz Featuring Ying Yang Twins",
+        "cover": "https://charts-static.billboard.com/img/2017/07/lil-jon.jpg",
+        "position": {
+            "positionLastWeek": 8,
+            "peakPosition": 6,
+            "weeksOnChart": 18
+        },
+        "from": {
+            "date": "2003-08-25",
+            "week": 35,
+            "pos": "5"
+        }
+    },
+    {
+        "rank": 7,
+        "title": "Frontin'",
+        "artist": "Pharrell Featuring Jay-Z",
+        "cover": "https://charts-static.billboard.com/img/2003/05/pharrell-williams-rbx.jpg",
+        "position": {
+            "positionLastWeek": 7,
+            "peakPosition": 7,
+            "weeksOnChart": 13
+        },
+        "from": {
+            "date": "2003-09-01",
+            "week": 36,
+            "pos": "6"
+        }
+    },
+    {
+        "rank": 4,
+        "title": "Baby Boy",
+        "artist": "Beyonce Featuring Sean Paul",
+        "cover": "https://charts-static.billboard.com/img/1840/12/beyonce-hk0.jpg",
+        "position": {
+            "positionLastWeek": 9,
+            "peakPosition": 4,
+            "weeksOnChart": 5
+        },
+        "from": {
+            "date": "2003-09-08",
+            "week": 37,
+            "pos": "3"
+        }
+    },
+    {
+        "rank": 11,
+        "title": "Damn!",
+        "artist": "YoungBloodZ Featuring Lil Jon",
+        "cover": "https://charts-static.billboard.com/img/2003/05/youngbloodz-iqn.jpg",
+        "position": {
+            "positionLastWeek": 21,
+            "peakPosition": 11,
+            "weeksOnChart": 7
+        },
+        "from": {
+            "date": "2003-09-15",
+            "week": 38,
+            "pos": "10"
+        }
+    },
+    {
+        "rank": 12,
+        "title": "Can't Hold Us Down",
+        "artist": "Christina Aguilera Featuring Lil' Kim",
+        "cover": "https://charts-static.billboard.com/img/2003/07/christina-aguilera-9ag.jpg",
+        "position": {
+            "positionLastWeek": 12,
+            "peakPosition": 12,
+            "weeksOnChart": 9
+        },
+        "from": {
+            "date": "2003-09-22",
+            "week": 39,
+            "pos": "11"
+        }
+    },
+    {
+        "rank": 12,
+        "title": "Why Don't You & I",
+        "artist": "Santana Featuring Alex Band Or Chad Kroeger",
+        "cover": "https://charts-static.billboard.com/img/2002/11/santana-fo5.jpg",
+        "position": {
+            "positionLastWeek": 14,
+            "peakPosition": 12,
+            "weeksOnChart": 11
+        },
+        "from": {
+            "date": "2003-09-29",
+            "week": 40,
+            "pos": "11"
+        }
+    },
+    {
+        "rank": 9,
+        "title": "Stand Up",
+        "artist": "Ludacris Featuring Shawnna",
+        "cover": "https://charts-static.billboard.com/img/2003/08/ludacris-5cn.jpg",
+        "position": {
+            "positionLastWeek": 15,
+            "peakPosition": 9,
+            "weeksOnChart": 6
+        },
+        "from": {
+            "date": "2003-10-06",
+            "week": 41,
+            "pos": "8"
+        }
+    },
+    {
+        "rank": 8,
+        "title": "Here Without You",
+        "artist": "3 Doors Down",
+        "cover": "https://charts-static.billboard.com/img/2003/08/3-doors-down-qu6.jpg",
+        "position": {
+            "positionLastWeek": 13,
+            "peakPosition": 8,
+            "weeksOnChart": 8
+        },
+        "from": {
+            "date": "2003-10-13",
+            "week": 42,
+            "pos": "7"
+        }
+    }
+]

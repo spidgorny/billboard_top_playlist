@@ -63,6 +63,7 @@ export class Billboard {
 
 	async fetchChartFromCache(dateYMD: string): Promise<Chart> {
 		return await this.cacheGetSet(dateYMD, async () => {
+			console.log(dateYMD);
 			return await this.fetchChartFor(dateYMD);
 		});
 	}

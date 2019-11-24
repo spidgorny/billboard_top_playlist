@@ -1,0 +1,834 @@
+[
+	{
+		"rank": 1,
+		"title": "Black Or White",
+		"artist": "Michael Jackson",
+		"cover": "https://charts-static.billboard.com/img/1991/11/michael-jackson-9to.jpg",
+		"position": {
+			"positionLastWeek": 1,
+			"peakPosition": 1,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1992-01-06",
+			"week": 2,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "All 4 Love",
+		"artist": "Color Me Badd",
+		"cover": "https://charts-static.billboard.com/img/1991/10/color-me-badd-cop.jpg",
+		"position": {
+			"positionLastWeek": 2,
+			"peakPosition": 2,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1992-01-13",
+			"week": 3,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "Can't Let Go",
+		"artist": "Mariah Carey",
+		"cover": "https://charts-static.billboard.com/img/1991/10/mariah-carey-tgq.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 2,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1992-01-20",
+			"week": 4,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 1,
+		"title": "Don't Let The Sun Go Down On Me",
+		"artist": "George Michael/Elton John",
+		"cover": "https://charts-static.billboard.com/img/1991/12/elton-john-qls.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 1,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1992-01-27",
+			"week": 5,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 1,
+		"title": "I'm Too Sexy",
+		"artist": "Right Said Fred",
+		"cover": "https://charts-static.billboard.com/img/1991/12/right-said-fred-qpz.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 1,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1992-02-03",
+			"week": 6,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "I Love Your Smile",
+		"artist": "Shanice",
+		"cover": "https://charts-static.billboard.com/img/1991/10/shanice-wkd.jpg",
+		"position": {
+			"positionLastWeek": 2,
+			"peakPosition": 2,
+			"weeksOnChart": 13
+		},
+		"from": {
+			"date": "1992-02-10",
+			"week": 7,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "To Be With You",
+		"artist": "Mr. Big",
+		"cover": "https://charts-static.billboard.com/img/1991/10/mr-big-nos.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 2,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1992-02-17",
+			"week": 8,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Remember The Time",
+		"artist": "Michael Jackson",
+		"cover": "https://charts-static.billboard.com/img/1992/01/michael-jackson-9to.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 4,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1992-02-24",
+			"week": 9,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Save The Best For Last",
+		"artist": "Vanessa Williams",
+		"cover": "https://charts-static.billboard.com/img/1992/01/vanessa-williams-y5l.jpg",
+		"position": {
+			"positionLastWeek": 11,
+			"peakPosition": 5,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1992-03-02",
+			"week": 10,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Tears In Heaven",
+		"artist": "Eric Clapton",
+		"cover": "https://charts-static.billboard.com/img/1992/01/eric-clapton-uz8.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 5,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1992-03-09",
+			"week": 11,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Masterpiece",
+		"artist": "Atlantic Starr",
+		"cover": "https://charts-static.billboard.com/img/1992/01/atlantic-starr-vhm.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 6,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1992-03-16",
+			"week": 12,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 7,
+		"title": "Breakin' My Heart (Pretty Brown Eyes)",
+		"artist": "Mint Condition",
+		"cover": "https://charts-static.billboard.com/img/1991/11/mint-condition-ao8.jpg",
+		"position": {
+			"positionLastWeek": 10,
+			"peakPosition": 7,
+			"weeksOnChart": 13
+		},
+		"from": {
+			"date": "1992-03-23",
+			"week": 13,
+			"pos": "6"
+		}
+	},
+	{
+		"rank": 8,
+		"title": "Make It Happen",
+		"artist": "Mariah Carey",
+		"cover": "https://charts-static.billboard.com/img/1992/02/mariah-carey-tgq.jpg",
+		"position": {
+			"positionLastWeek": 10,
+			"peakPosition": 8,
+			"weeksOnChart": 7
+		},
+		"from": {
+			"date": "1992-03-30",
+			"week": 14,
+			"pos": "7"
+		}
+	},
+	{
+		"rank": 7,
+		"title": "I Can't Dance",
+		"artist": "Genesis",
+		"cover": "https://assets.billboard.com/assets/1570131897/images/charts/bb-placeholder-new.jpg",
+		"position": {
+			"positionLastWeek": 9,
+			"peakPosition": 7,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1992-04-06",
+			"week": 15,
+			"pos": "6"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Jump",
+		"artist": "Kris Kross",
+		"cover": "https://charts-static.billboard.com/img/1992/03/kris-kross-zfb.jpg",
+		"position": {
+			"positionLastWeek": 12,
+			"peakPosition": 3,
+			"weeksOnChart": 3
+		},
+		"from": {
+			"date": "1992-04-13",
+			"week": 16,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Bohemian Rhapsody",
+		"artist": "Queen",
+		"cover": "https://charts-static.billboard.com/img/1976/01/queen-m21.jpg",
+		"position": {
+			"positionLastWeek": 4,
+			"peakPosition": 4,
+			"weeksOnChart": 30
+		},
+		"from": {
+			"date": "1992-04-20",
+			"week": 17,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "My Lovin' (You're Never Gonna Get It)",
+		"artist": "En Vogue",
+		"cover": "https://charts-static.billboard.com/img/1992/03/en-vogue-osy.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 5,
+			"weeksOnChart": 7
+		},
+		"from": {
+			"date": "1992-04-27",
+			"week": 18,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Live And Learn",
+		"artist": "Joe Public",
+		"cover": "https://charts-static.billboard.com/img/1992/02/joe-public-zn9.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 6,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1992-05-04",
+			"week": 19,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Under The Bridge",
+		"artist": "Red Hot Chili Peppers",
+		"cover": "https://charts-static.billboard.com/img/1992/02/red-hot-chili-peppers-c0t.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 6,
+			"weeksOnChart": 7
+		},
+		"from": {
+			"date": "1992-05-11",
+			"week": 20,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 8,
+		"title": "Ain't 2 Proud 2 Beg",
+		"artist": "TLC",
+		"cover": "https://charts-static.billboard.com/img/1992/02/tlc-ll0.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 6,
+			"weeksOnChart": 14
+		},
+		"from": {
+			"date": "1992-05-18",
+			"week": 21,
+			"pos": "7"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Baby Got Back",
+		"artist": "Sir Mix-A-Lot",
+		"cover": "https://charts-static.billboard.com/img/1992/03/sir-mix-a-lot-9gn.jpg",
+		"position": {
+			"positionLastWeek": 12,
+			"peakPosition": 5,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1992-05-25",
+			"week": 22,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "I'll Be There",
+		"artist": "Mariah Carey",
+		"cover": "https://charts-static.billboard.com/img/1992/05/mariah-carey-tgq.jpg",
+		"position": {
+			"positionLastWeek": 13,
+			"peakPosition": 4,
+			"weeksOnChart": 2
+		},
+		"from": {
+			"date": "1992-06-01",
+			"week": 23,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Damn I Wish I Was Your Lover",
+		"artist": "Sophie B. Hawkins",
+		"cover": "https://charts-static.billboard.com/img/1992/04/sophie-b-hawkins-4go.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 6,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1992-06-08",
+			"week": 24,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 7,
+		"title": "If You Asked Me To",
+		"artist": "Celine Dion",
+		"cover": "https://charts-static.billboard.com/img/1992/04/celine-dion-0hi.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 7,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1992-06-15",
+			"week": 25,
+			"pos": "6"
+		}
+	},
+	{
+		"rank": 8,
+		"title": "Achy Breaky Heart",
+		"artist": "Billy Ray Cyrus",
+		"cover": "https://charts-static.billboard.com/img/1840/12/billy-ray-cyrus-8uo.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 8,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1992-06-22",
+			"week": 26,
+			"pos": "7"
+		}
+	},
+	{
+		"rank": 9,
+		"title": "Tennessee",
+		"artist": "Arrested Development",
+		"cover": "https://charts-static.billboard.com/img/1992/04/arrested-development-6g6.jpg",
+		"position": {
+			"positionLastWeek": 9,
+			"peakPosition": 9,
+			"weeksOnChart": 13
+		},
+		"from": {
+			"date": "1992-06-29",
+			"week": 27,
+			"pos": "8"
+		}
+	},
+	{
+		"rank": 10,
+		"title": "Wishing On A Star",
+		"artist": "The Cover Girls",
+		"cover": "https://charts-static.billboard.com/img/1992/05/the-cover-girls-j9q.jpg",
+		"position": {
+			"positionLastWeek": 10,
+			"peakPosition": 10,
+			"weeksOnChart": 7
+		},
+		"from": {
+			"date": "1992-07-06",
+			"week": 28,
+			"pos": "9"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Baby-Baby-Baby",
+		"artist": "TLC",
+		"cover": "https://charts-static.billboard.com/img/1992/05/tlc-ll0.jpg",
+		"position": {
+			"positionLastWeek": 15,
+			"peakPosition": 5,
+			"weeksOnChart": 7
+		},
+		"from": {
+			"date": "1992-07-13",
+			"week": 29,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "This Used To Be My Playground",
+		"artist": "Madonna",
+		"cover": "https://charts-static.billboard.com/img/1992/07/madonna-rq3.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 2,
+			"weeksOnChart": 4
+		},
+		"from": {
+			"date": "1992-07-20",
+			"week": 30,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Just Another Day",
+		"artist": "Jon Secada",
+		"cover": "https://charts-static.billboard.com/img/1992/04/jon-secada-kpf.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 5,
+			"weeksOnChart": 16
+		},
+		"from": {
+			"date": "1992-07-27",
+			"week": 31,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "End Of The Road (From \"Boomerang\")",
+		"artist": "Boyz II Men",
+		"cover": "https://charts-static.billboard.com/img/1992/07/boyz-ii-men-iur.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 4,
+			"weeksOnChart": 4
+		},
+		"from": {
+			"date": "1992-08-03",
+			"week": 32,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "November Rain",
+		"artist": "Guns N' Roses",
+		"cover": "https://charts-static.billboard.com/img/1991/09/guns-n-roses-i8r.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 5,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1992-08-10",
+			"week": 33,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Life Is A Highway",
+		"artist": "Tom Cochrane",
+		"cover": "https://charts-static.billboard.com/img/1992/02/tom-cochrane-v5m.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 6,
+			"weeksOnChart": 15
+		},
+		"from": {
+			"date": "1992-08-17",
+			"week": 34,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Humpin' Around",
+		"artist": "Bobby Brown",
+		"cover": "https://charts-static.billboard.com/img/1992/08/bobby-brown-s9w.jpg",
+		"position": {
+			"positionLastWeek": 11,
+			"peakPosition": 6,
+			"weeksOnChart": 4
+		},
+		"from": {
+			"date": "1992-08-24",
+			"week": 35,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Move This",
+		"artist": "Technotronic Featuring Ya Kid K",
+		"cover": "https://charts-static.billboard.com/img/1992/06/technotronic-95d.jpg",
+		"position": {
+			"positionLastWeek": 11,
+			"peakPosition": 6,
+			"weeksOnChart": 13
+		},
+		"from": {
+			"date": "1992-08-31",
+			"week": 36,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Stay",
+		"artist": "Shakespear's Sister",
+		"cover": "https://charts-static.billboard.com/img/1992/07/shakespears-sister-i8p.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 5,
+			"weeksOnChart": 11
+		},
+		"from": {
+			"date": "1992-09-07",
+			"week": 37,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Sometimes Love Just Ain't Enough",
+		"artist": "Patty Smyth",
+		"cover": "https://charts-static.billboard.com/img/1992/08/patty-smyth-4fk.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 6,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1992-09-14",
+			"week": 38,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 7,
+		"title": "Jump Around",
+		"artist": "House Of Pain",
+		"cover": "https://charts-static.billboard.com/img/1992/06/house-of-pain-uzu.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 7,
+			"weeksOnChart": 14
+		},
+		"from": {
+			"date": "1992-09-21",
+			"week": 39,
+			"pos": "6"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "She's Playing Hard To Get",
+		"artist": "Hi-Five",
+		"cover": "https://charts-static.billboard.com/img/1992/08/hi-five-i9q.jpg",
+		"position": {
+			"positionLastWeek": 9,
+			"peakPosition": 6,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1992-09-28",
+			"week": 40,
+			"pos": "5"
+		}
+	},
+	{
+		"rank": 7,
+		"title": "Please Don't Go",
+		"artist": "K.W.S.",
+		"cover": "https://assets.billboard.com/assets/1570131897/images/charts/bb-placeholder-new.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 7,
+			"weeksOnChart": 17
+		},
+		"from": {
+			"date": "1992-10-05",
+			"week": 41,
+			"pos": "6"
+		}
+	},
+	{
+		"rank": 7,
+		"title": "I'd Die Without You (From \"Boomerang\")",
+		"artist": "P.M. Dawn",
+		"cover": "https://charts-static.billboard.com/img/1992/08/pm-dawn-6qa.jpg",
+		"position": {
+			"positionLastWeek": 10,
+			"peakPosition": 7,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1992-10-12",
+			"week": 42,
+			"pos": "6"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "Erotica",
+		"artist": "Madonna",
+		"cover": "https://charts-static.billboard.com/img/1992/10/madonna-rq3.jpg",
+		"position": {
+			"positionLastWeek": 13,
+			"peakPosition": 3,
+			"weeksOnChart": 2
+		},
+		"from": {
+			"date": "1992-10-19",
+			"week": 43,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "How Do You Talk To An Angel",
+		"artist": "The Heights",
+		"cover": "https://charts-static.billboard.com/img/1992/09/the-heights-6tx.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 4,
+			"weeksOnChart": 5
+		},
+		"from": {
+			"date": "1992-10-26",
+			"week": 44,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 7,
+		"title": "Rhythm Is A Dancer",
+		"artist": "Snap!",
+		"cover": "https://charts-static.billboard.com/img/1992/07/snap-awj.jpg",
+		"position": {
+			"positionLastWeek": 9,
+			"peakPosition": 7,
+			"weeksOnChart": 13
+		},
+		"from": {
+			"date": "1992-11-02",
+			"week": 45,
+			"pos": "6"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "If I Ever Fall In Love",
+		"artist": "Shai",
+		"cover": "https://charts-static.billboard.com/img/1992/10/shai-n1f.jpg",
+		"position": {
+			"positionLastWeek": 12,
+			"peakPosition": 4,
+			"weeksOnChart": 5
+		},
+		"from": {
+			"date": "1992-11-09",
+			"week": 46,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Rump Shaker",
+		"artist": "Wreckx-N-Effect",
+		"cover": "https://charts-static.billboard.com/img/1992/09/wreckx-n-effect-ud9.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 5,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1992-11-16",
+			"week": 47,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 1,
+		"title": "I Will Always Love You",
+		"artist": "Whitney Houston",
+		"cover": "https://charts-static.billboard.com/img/1992/11/whitney-houston-m52.jpg",
+		"position": {
+			"positionLastWeek": 12,
+			"peakPosition": 1,
+			"weeksOnChart": 3
+		},
+		"from": {
+			"date": "1992-11-23",
+			"week": 48,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 7,
+		"title": "Real Love",
+		"artist": "Mary J. Blige",
+		"cover": "https://charts-static.billboard.com/img/1992/08/mary-j-blige-hn0.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 7,
+			"weeksOnChart": 15
+		},
+		"from": {
+			"date": "1992-11-30",
+			"week": 49,
+			"pos": "6"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "In The Still Of The Nite (From \"The Jacksons\")",
+		"artist": "Boyz II Men",
+		"cover": "https://charts-static.billboard.com/img/1992/10/boyz-ii-men-iur.jpg",
+		"position": {
+			"positionLastWeek": 11,
+			"peakPosition": 4,
+			"weeksOnChart": 3
+		},
+		"from": {
+			"date": "1992-12-07",
+			"week": 50,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 8,
+		"title": "Good Enough",
+		"artist": "Bobby Brown",
+		"cover": "https://charts-static.billboard.com/img/1992/09/bobby-brown-s9w.jpg",
+		"position": {
+			"positionLastWeek": 8,
+			"peakPosition": 8,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1992-12-14",
+			"week": 51,
+			"pos": "7"
+		}
+	},
+	{
+		"rank": 8,
+		"title": "Saving Forever For You (From \"Beverly Hills, 90210\")",
+		"artist": "Shanice",
+		"cover": "https://charts-static.billboard.com/img/1992/10/shanice-wkd.jpg",
+		"position": {
+			"positionLastWeek": 12,
+			"peakPosition": 8,
+			"weeksOnChart": 10
+		},
+		"from": {
+			"date": "1992-12-21",
+			"week": 52,
+			"pos": "7"
+		}
+	},
+	{
+		"rank": 9,
+		"title": "What About Your Friends",
+		"artist": "TLC",
+		"cover": "https://charts-static.billboard.com/img/1992/08/tlc-ll0.jpg",
+		"position": {
+			"positionLastWeek": 11,
+			"peakPosition": 7,
+			"weeksOnChart": 18
+		},
+		"from": {
+			"date": "1992-12-28",
+			"week": 1,
+			"pos": "8"
+		}
+	}
+]

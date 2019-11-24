@@ -11,8 +11,11 @@ export class PlaylistGenerator {
 		for (const year of Object.keys(yearWeeks)) {
 			console.log('Year: ' + year);
 			const playlist = await this.constructYearPlaylist(yearWeeks[year]);
+			if (!playlist.length) {
+				break;
+			}
 			this.dumpPlaylist(playlist);
-			fs.writeFileSync('playlist' + year + '.json', JSON.stringify(playlist, null, 4));
+			fs.writeFileSync('playlist/playlist' + year + '.json', JSON.stringify(playlist, null, '\t'));
 		}
 	}
 
@@ -26,18 +29,23 @@ export class PlaylistGenerator {
 		const playlist = [];
 		for (const week of weeks) {
 			let ymd = week.format('Y-MM-DD');
-			const top100 = await this.billboard.fetchChartFromCache(ymd);
-			for (const i in top100.songs) {
-				const song = top100.songs[i];
-				if (!this.playlistIncludes(playlist, song)) {
-					song.from = {
-						date: ymd,
-						week: week.week(),
-						pos: i
-					};
-					playlist.push(song);
-					break;	// one top song only
+			try {
+				const top100 = await this.billboard.fetchChartFromCache(ymd);
+				for (const i in top100.songs) {
+					const song = top100.songs[i];
+					if (!this.playlistIncludes(playlist, song)) {
+						song.from = {
+							date: ymd,
+							week: week.week(),
+							pos: i
+						};
+						playlist.push(song);
+						break;	// one top song only
+					}
 				}
+			} catch (e) {
+				console.log('Billboard data not found in cache. And Billboard rate limit reached. Try again in 2 minutes.');
+				break;
 			}
 		}
 		return playlist;
@@ -45,7 +53,12 @@ export class PlaylistGenerator {
 
 	dumpPlaylist(playlist: Song[]) {
 		for (const song of playlist) {
-			console.log(song.from.week + ': ' + song.rank, "\t", song.artist, '-', song.title);
+			const year = moment(song.from.date).year();
+			console.log(
+				year + '-W'+song.from.week + ':',
+				'#' + song.rank.toString().padStart(2, '0'),
+				"\t", song.artist, '-', song.title
+			);
 		}
 	}
 

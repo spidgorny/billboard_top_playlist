@@ -1,0 +1,162 @@
+[
+	{
+		"rank": 1,
+		"title": "I Will Always Love You",
+		"artist": "Whitney Houston",
+		"cover": "https://charts-static.billboard.com/img/1992/11/whitney-houston-m52.jpg",
+		"position": {
+			"positionLastWeek": 1,
+			"peakPosition": 1,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1993-01-04",
+			"week": 2,
+			"pos": "0"
+		}
+	},
+	{
+		"rank": 2,
+		"title": "If I Ever Fall In Love",
+		"artist": "Shai",
+		"cover": "https://charts-static.billboard.com/img/1992/10/shai-n1f.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 2,
+			"weeksOnChart": 14
+		},
+		"from": {
+			"date": "1993-01-11",
+			"week": 3,
+			"pos": "1"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "In The Still Of The Nite (From \"The Jacksons\")",
+		"artist": "Boyz II Men",
+		"cover": "https://charts-static.billboard.com/img/1992/10/boyz-ii-men-iur.jpg",
+		"position": {
+			"positionLastWeek": 3,
+			"peakPosition": 3,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1993-01-18",
+			"week": 4,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Saving Forever For You (From \"Beverly Hills, 90210\")",
+		"artist": "Shanice",
+		"cover": "https://charts-static.billboard.com/img/1992/10/shanice-wkd.jpg",
+		"position": {
+			"positionLastWeek": 5,
+			"peakPosition": 4,
+			"weeksOnChart": 15
+		},
+		"from": {
+			"date": "1993-01-25",
+			"week": 5,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 3,
+		"title": "A Whole New World (Aladdin's Theme)",
+		"artist": "Peabo Bryson & Regina Belle",
+		"cover": "https://charts-static.billboard.com/img/1992/11/peabo-bryson-64m.jpg",
+		"position": {
+			"positionLastWeek": 6,
+			"peakPosition": 3,
+			"weeksOnChart": 8
+		},
+		"from": {
+			"date": "1993-02-01",
+			"week": 6,
+			"pos": "2"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Ordinary World",
+		"artist": "Duran Duran",
+		"cover": "https://charts-static.billboard.com/img/1992/12/duran-duran-xho.jpg",
+		"position": {
+			"positionLastWeek": 7,
+			"peakPosition": 5,
+			"weeksOnChart": 6
+		},
+		"from": {
+			"date": "1993-02-08",
+			"week": 7,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "I'm Every Woman (From \"The Bodyguard\")",
+		"artist": "Whitney Houston",
+		"cover": "https://charts-static.billboard.com/img/1992/12/whitney-houston-m52.jpg",
+		"position": {
+			"positionLastWeek": 10,
+			"peakPosition": 4,
+			"weeksOnChart": 7
+		},
+		"from": {
+			"date": "1993-02-15",
+			"week": 8,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 5,
+		"title": "Nuthin' But A \"G\" Thang",
+		"artist": "Dr. Dre",
+		"cover": "https://charts-static.billboard.com/img/1993/01/dr-dre-h9l.jpg",
+		"position": {
+			"positionLastWeek": 12,
+			"peakPosition": 5,
+			"weeksOnChart": 5
+		},
+		"from": {
+			"date": "1993-02-22",
+			"week": 9,
+			"pos": "4"
+		}
+	},
+	{
+		"rank": 4,
+		"title": "Informer",
+		"artist": "Snow",
+		"cover": "https://charts-static.billboard.com/img/1992/12/snow-7kf.jpg",
+		"position": {
+			"positionLastWeek": 10,
+			"peakPosition": 4,
+			"weeksOnChart": 9
+		},
+		"from": {
+			"date": "1993-03-01",
+			"week": 10,
+			"pos": "3"
+		}
+	},
+	{
+		"rank": 6,
+		"title": "Freak Me",
+		"artist": "Silk",
+		"cover": "https://charts-static.billboard.com/img/2017/02/silk.jpg",
+		"position": {
+			"positionLastWeek": 21,
+			"peakPosition": 6,
+			"weeksOnChart": 4
+		},
+		"from": {
+			"date": "1993-03-08",
+			"week": 11,
+			"pos": "5"
+		}
+	}
+]
