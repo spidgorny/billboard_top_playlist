@@ -1,7 +1,7 @@
 [
 	{
 		"artist": "Phil Collins",
-		"track": "Another Day In Paradise",
+		"title": "Another Day In Paradise",
 		"spotify": {
 			"id": "1NCuYqMc8hKMb4cpNTcJbD",
 			"artist": "Phil Collins",
@@ -11,7 +11,7 @@
 	},
 	{
 		"artist": "Janet Jackson",
-		"track": "Rhythm Nation",
+		"title": "Rhythm Nation",
 		"spotify": {
 			"id": "4nTYxxF8iWBq54LO3dBUie",
 			"artist": "Janet Jackson",
@@ -21,7 +21,7 @@
 	},
 	{
 		"artist": "Michael Bolton",
-		"track": "How Am I Supposed To Live Without You",
+		"title": "How Am I Supposed To Live Without You",
 		"spotify": {
 			"id": "3RMeOetCdXttthQK0clPuz",
 			"artist": "Michael Bolton",
@@ -31,15 +31,24 @@
 	},
 	{
 		"artist": "Technotronic Featuring Felly",
-		"track": "Pump Up The Jam"
+		"title": "Pump Up The Jam",
+		"spotify": {
+			"id": "0UAEHlFR79k9CJvknSGUNf",
+			"artist": "Technotronic",
+			"title": "Pump Up The Jam - Edit",
+			"album": "Best Of"
+		}
 	},
 	{
 		"artist": "Paula Abdul (Duet With The Wild Pair)",
-		"track": "Opposites Attract"
+		"title": "Opposites Attract",
+		"spotify": {
+			"id": "7z38bideBRvGAgjXe2SECm"
+		}
 	},
 	{
 		"artist": "Seduction",
-		"track": "Two To Make It Right",
+		"title": "Two To Make It Right",
 		"spotify": {
 			"id": "6GS6uE1vDmtzxO8GztAR2O",
 			"artist": "Seduction",
@@ -49,7 +58,7 @@
 	},
 	{
 		"artist": "Janet Jackson",
-		"track": "Escapade",
+		"title": "Escapade",
 		"spotify": {
 			"id": "5HAv1Ckfe50DUjv8ghwTrz",
 			"artist": "Janet Jackson",
@@ -59,7 +68,7 @@
 	},
 	{
 		"artist": "Roxette",
-		"track": "Dangerous",
+		"title": "Dangerous",
 		"spotify": {
 			"id": "756YOXmKh2iUnx33nAdfPf",
 			"artist": "Roxette",
@@ -69,7 +78,7 @@
 	},
 	{
 		"artist": "The B-52s",
-		"track": "Roam",
+		"title": "Roam",
 		"spotify": {
 			"id": "5fqcIHU6DhQtFKVO5XSdQs",
 			"artist": "The B-52's",
@@ -79,7 +88,7 @@
 	},
 	{
 		"artist": "Alannah Myles",
-		"track": "Black Velvet",
+		"title": "Black Velvet",
 		"spotify": {
 			"id": "1KU5EHSz04JhGg3rReGJ0N",
 			"artist": "Alannah Myles",
@@ -89,7 +98,7 @@
 	},
 	{
 		"artist": "Taylor Dayne",
-		"track": "Love Will Lead You Back",
+		"title": "Love Will Lead You Back",
 		"spotify": {
 			"id": "3HLgjHYaEhKFvV4SSvI9Te",
 			"artist": "Taylor Dayne",
@@ -99,7 +108,7 @@
 	},
 	{
 		"artist": "Phil Collins",
-		"track": "I Wish It Would Rain Down",
+		"title": "I Wish It Would Rain Down",
 		"spotify": {
 			"id": "4F2t297QK40XFcIHqkmLHs",
 			"artist": "Phil Collins",
@@ -109,11 +118,14 @@
 	},
 	{
 		"artist": "Tommy Page",
-		"track": "I'll Be Your Everything"
+		"title": "I'll Be Your Everything",
+		"spotify": {
+			"id": "4K0fYuC7qJx5P7Yh0Ch2zo"
+		}
 	},
 	{
 		"artist": "Lisa Stansfield",
-		"track": "All Around The World",
+		"title": "All Around The World",
 		"spotify": {
 			"id": "0piPn2zyL4Yi60ml53qNXE",
 			"artist": "Lisa Stansfield",
@@ -123,11 +135,14 @@
 	},
 	{
 		"artist": "Jane Child",
-		"track": "Don't Wanna Fall In Love"
+		"title": "Don't Wanna Fall In Love",
+		"spotify": {
+			"id": "6eozUVzr02EXMji1vuxgiP"
+		}
 	},
 	{
 		"artist": "Sinead O'Connor",
-		"track": "Nothing Compares 2 U",
+		"title": "Nothing Compares 2 U",
 		"spotify": {
 			"id": "3nvuPQTw2zuFAVuLsC9IYQ",
 			"artist": "Sinéad O'Connor",
@@ -137,7 +152,7 @@
 	},
 	{
 		"artist": "Calloway",
-		"track": "I Wanna Be Rich",
+		"title": "I Wanna Be Rich",
 		"spotify": {
 			"id": "5bqNu0YfNOZpgl34bcJiFQ",
 			"artist": "Calloway",
@@ -147,7 +162,7 @@
 	},
 	{
 		"artist": "Michael Bolton",
-		"track": "How Can We Be Lovers",
+		"title": "How Can We Be Lovers",
 		"spotify": {
 			"id": "0ZUjPkZKjzRi6bgIuJovfY",
 			"artist": "Michael Bolton",
@@ -157,7 +172,7 @@
 	},
 	{
 		"artist": "Madonna",
-		"track": "Vogue",
+		"title": "Vogue",
 		"spotify": {
 			"id": "27QvYgBk0CHOVHthWnkuWt",
 			"artist": "Madonna",
@@ -167,7 +182,7 @@
 	},
 	{
 		"artist": "Heart",
-		"track": "All I Wanna Do Is Make Love To You",
+		"title": "All I Wanna Do Is Make Love To You",
 		"spotify": {
 			"id": "5YjKdeES9QRJ8NmF4Xc8pV",
 			"artist": "Heart",
@@ -177,7 +192,7 @@
 	},
 	{
 		"artist": "Wilson Phillips",
-		"track": "Hold On",
+		"title": "Hold On",
 		"spotify": {
 			"id": "4VZDv8sASBS8UruUBGTFdk",
 			"artist": "Wilson Phillips",
@@ -187,7 +202,7 @@
 	},
 	{
 		"artist": "Janet Jackson",
-		"track": "Alright",
+		"title": "Alright",
 		"spotify": {
 			"id": "63W4sfeRTTiNKFLAzUJHFe",
 			"artist": "Janet Jackson",
@@ -197,7 +212,7 @@
 	},
 	{
 		"artist": "Bell Biv DeVoe",
-		"track": "Poison",
+		"title": "Poison",
 		"spotify": {
 			"id": "6m59VvDUi0UQsB2eZ9wVbH",
 			"artist": "Bell Biv DeVoe",
@@ -207,7 +222,7 @@
 	},
 	{
 		"artist": "Roxette",
-		"track": "It Must Have Been Love (From \"Pretty Woman\")",
+		"title": "It Must Have Been Love (From \"Pretty Woman\")",
 		"spotify": {
 			"id": "6kvoHl80mfCVTv7XnZkjQn",
 			"artist": "Roxette",
@@ -217,7 +232,7 @@
 	},
 	{
 		"artist": "New Kids On The Block",
-		"track": "Step By Step",
+		"title": "Step By Step",
 		"spotify": {
 			"id": "6J6RWKCPN5RFKHUKEUFjxS",
 			"artist": "New Kids On The Block",
@@ -227,7 +242,7 @@
 	},
 	{
 		"artist": "Phil Collins",
-		"track": "Do You Remember?",
+		"title": "Do You Remember?",
 		"spotify": {
 			"id": "3TLtCHUaiMHcQcJVGVW2p2",
 			"artist": "Phil Collins",
@@ -237,11 +252,17 @@
 	},
 	{
 		"artist": "Glenn Medeiros Featuring Bobby Brown",
-		"track": "She Ain't Worth It"
+		"title": "She Ain't Worth It",
+		"spotify": {
+			"id": "0Gb5bNSi7i8UhuNSfHHbS2",
+			"artist": "Glenn Medeiros",
+			"title": "She Ain't Worth It - Single Version",
+			"album": "Gold"
+		}
 	},
 	{
 		"artist": "En Vogue",
-		"track": "Hold On",
+		"title": "Hold On",
 		"spotify": {
 			"id": "3ZqjDpr3qCZnZBPcd0Hpj2",
 			"artist": "En Vogue",
@@ -251,11 +272,14 @@
 	},
 	{
 		"artist": "Billy Idol",
-		"track": "Cradle Of Love (From \"Ford Fairlane\")"
+		"title": "Cradle Of Love (From \"Ford Fairlane\")",
+		"spotify": {
+			"id": "5TSANSqPTD6nBG0NSJWmVB"
+		}
 	},
 	{
 		"artist": "Mariah Carey",
-		"track": "Vision Of Love",
+		"title": "Vision Of Love",
 		"spotify": {
 			"id": "0gLQ6jhJsyYfl7PrD1RZ7X",
 			"artist": "Mariah Carey",
@@ -265,7 +289,7 @@
 	},
 	{
 		"artist": "Johnny Gill",
-		"track": "Rub You The Right Way",
+		"title": "Rub You The Right Way",
 		"spotify": {
 			"id": "40xz60ciGIpsRtDqRfPKBE",
 			"artist": "Johnny Gill",
@@ -275,7 +299,7 @@
 	},
 	{
 		"artist": "Snap!",
-		"track": "The Power",
+		"title": "The Power",
 		"spotify": {
 			"id": "0nQLxiNGbbUoSGrxksETLm",
 			"artist": "SNAP!",
@@ -285,7 +309,7 @@
 	},
 	{
 		"artist": "Janet Jackson",
-		"track": "Come Back To Me",
+		"title": "Come Back To Me",
 		"spotify": {
 			"id": "0NSSqYISjnav81CEn6EgBY",
 			"artist": "Janet Jackson",
@@ -295,7 +319,7 @@
 	},
 	{
 		"artist": "Sweet Sensation",
-		"track": "If Wishes Came True",
+		"title": "If Wishes Came True",
 		"spotify": {
 			"id": "5gAdATsfINRIljv4LbrKX2",
 			"artist": "Sweet Sensation",
@@ -305,7 +329,7 @@
 	},
 	{
 		"artist": "Jon Bon Jovi",
-		"track": "Blaze Of Glory (From \"Young Guns II\")",
+		"title": "Blaze Of Glory (From \"Young Guns II\")",
 		"spotify": {
 			"id": "1sUTfgduT0WIQO8kXKXxLC",
 			"artist": "Jon Bon Jovi",
@@ -315,7 +339,7 @@
 	},
 	{
 		"artist": "Wilson Phillips",
-		"track": "Release Me",
+		"title": "Release Me",
 		"spotify": {
 			"id": "1rIy3lkFJnMsTLZpxFmYU8",
 			"artist": "Wilson Phillips",
@@ -325,7 +349,7 @@
 	},
 	{
 		"artist": "Bell Biv DeVoe",
-		"track": "Do Me!",
+		"title": "Do Me!",
 		"spotify": {
 			"id": "3an1aoJKoBXJKoIfdDbVwf",
 			"artist": "Bell Biv DeVoe",
@@ -335,11 +359,14 @@
 	},
 	{
 		"artist": "Nelson",
-		"track": "(Can't Live Without Your) Love And Affection"
+		"title": "(Can't Live Without Your) Love And Affection",
+		"spotify": {
+			"id": "3JjY2L2bqql54j1SjnjQ23"
+		}
 	},
 	{
 		"artist": "Maxi Priest",
-		"track": "Close To You",
+		"title": "Close To You",
 		"spotify": {
 			"id": "680kMGV6szhTiZbHRr3vLi",
 			"artist": "Maxi Priest",
@@ -349,7 +376,7 @@
 	},
 	{
 		"artist": "George Michael",
-		"track": "Praying For Time",
+		"title": "Praying For Time",
 		"spotify": {
 			"id": "7CgRXXie9XIxVSkpKi40ID",
 			"artist": "George Michael",
@@ -359,7 +386,7 @@
 	},
 	{
 		"artist": "James Ingram",
-		"track": "I Don't Have The Heart",
+		"title": "I Don't Have The Heart",
 		"spotify": {
 			"id": "5In7xBveNACCRX2uWNoPuW",
 			"artist": "James Ingram",
@@ -369,7 +396,7 @@
 	},
 	{
 		"artist": "Janet Jackson",
-		"track": "Black Cat",
+		"title": "Black Cat",
 		"spotify": {
 			"id": "4tYpYYoOI7WDxbCnPninwE",
 			"artist": "Janet Jackson",
@@ -379,7 +406,7 @@
 	},
 	{
 		"artist": "Vanilla Ice",
-		"track": "Ice Ice Baby",
+		"title": "Ice Ice Baby",
 		"spotify": {
 			"id": "3XVozq1aeqsJwpXrEZrDJ9",
 			"artist": "Vanilla Ice",
@@ -389,7 +416,7 @@
 	},
 	{
 		"artist": "Mariah Carey",
-		"track": "Love Takes Time",
+		"title": "Love Takes Time",
 		"spotify": {
 			"id": "48l7PNpT2fBoT4cdLW6EzP",
 			"artist": "Mariah Carey",
@@ -399,11 +426,14 @@
 	},
 	{
 		"artist": "M.C. Hammer",
-		"track": "Pray"
+		"title": "Pray",
+		"spotify": {
+			"id": "0l7CcMTq1k965KZPaAtsmR"
+		}
 	},
 	{
 		"artist": "Alias",
-		"track": "More Than Words Can Say",
+		"title": "More Than Words Can Say",
 		"spotify": {
 			"id": "1EB3Z38oKDKVp4K2yEO2dl",
 			"artist": "Alias",
@@ -413,11 +443,14 @@
 	},
 	{
 		"artist": "Whitney Houston",
-		"track": "I'm Your Baby Tonight"
+		"title": "I'm Your Baby Tonight",
+		"spotify": {
+			"id": "3SmPl0CGxvvkQCrTv7edEE"
+		}
 	},
 	{
 		"artist": "Stevie B",
-		"track": "Because I Love You (The Postman Song)",
+		"title": "Because I Love You (The Postman Song)",
 		"spotify": {
 			"id": "5133Vr9T5jaSNBlqSQRJDx",
 			"artist": "Stevie B",
@@ -427,7 +460,7 @@
 	},
 	{
 		"artist": "Bette Midler",
-		"track": "From A Distance",
+		"title": "From A Distance",
 		"spotify": {
 			"id": "48eiLW57CqSmCYNZRM2J8M",
 			"artist": "Bette Midler",
@@ -437,7 +470,7 @@
 	},
 	{
 		"artist": "Madonna",
-		"track": "Justify My Love",
+		"title": "Justify My Love",
 		"spotify": {
 			"id": "6BWRvw630R8z2vNMok6quI",
 			"artist": "Madonna",
@@ -447,7 +480,7 @@
 	},
 	{
 		"artist": "Wilson Phillips",
-		"track": "Impulsive",
+		"title": "Impulsive",
 		"spotify": {
 			"id": "2lxfnTyWxW381PXDm9Mg77",
 			"artist": "Wilson Phillips",
@@ -457,11 +490,14 @@
 	},
 	{
 		"artist": "DNA Featuring Suzanne Vega",
-		"track": "Tom's Diner"
+		"title": "Tom's Diner",
+		"spotify": {
+			"id": "1DwcQPGhHOeGMkSyCi6NZu"
+		}
 	},
 	{
 		"artist": "Damn Yankees",
-		"track": "High Enough",
+		"title": "High Enough",
 		"spotify": {
 			"id": "5t5rCnsgRBtcKqTB7SbD1Q",
 			"artist": "Damn Yankees",
