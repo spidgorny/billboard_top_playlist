@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "spotify.ts": "ts-node-dev test/spotify.ts",
     "index.ts": "ts-node-dev index.ts",
-    "playlist.ts": "ts-node-dev playlist.ts"
+    "playlist.ts": "ts-node-dev playlist.ts",
+    "auth.ts": "ts-node-dev auth.ts",
+    "make-playlist.ts": "ts-node-dev make-playlist.ts 1990"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +26,7 @@
     "pretty-ms": "^5.0.0",
     "spotify-web-api-node": "^4.0.0",
     "ts-node-dev": "^1.0.0-pre.44",
-    "typescript": "^3.7.2"
+    "typescript": "^3.7.2",
+    "update-dotenv": "^1.1.1"
   }
 }

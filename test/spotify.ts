@@ -1,8 +1,8 @@
-const SpotifyWebApi = require('spotify-web-api-node');
+const SpotifyWebApi2 = require('spotify-web-api-node');
 require('dotenv').config();
 
 // credentials are optional
-const spotifyApi = new SpotifyWebApi({
+const spotifyApi = new SpotifyWebApi2({
 	clientId: process.env['spotify.client'],
 	clientSecret: process.env['spotify.secret'],
 });
