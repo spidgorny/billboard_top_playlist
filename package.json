@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "spotify.ts": "ts-node-dev test/spotify.ts",
     "index.ts": "ts-node-dev index.ts",
+    "generate.ts": "ts-node-dev generate.ts",
     "playlist.ts": "ts-node-dev playlist.ts",
     "auth.ts": "ts-node-dev auth.ts",
     "make-playlist.ts": "ts-node-dev make-playlist.ts 1990"

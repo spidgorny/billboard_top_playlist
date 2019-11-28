@@ -1,10 +1,6 @@
-import * as fs from "fs";
 import * as moment from "moment";
 import {Billboard, Chart, Song} from "./src/Billboard";
-import {PlaylistGenerator} from "./src/PlaylistGenerator";
 import {YearWeeks} from "./src/YearWeeks";
-
-console.log('Starting');
 
 const billboard = new Billboard();
 
@@ -38,12 +34,5 @@ async function downloadAndShowOneWeekChart(since: string) {
 	// console.log(weeks.map(d => d.format('Y-MM-DD')));
 
 	// this is just caching the data in advance
-	// await downloadAndCache(weeks);
-
-	const yearWeeks = yw.splitWeeksByYear(weeks);
-	// fs.writeFileSync('yearWeeks.json', JSON.stringify(yearWeeks, null, "\t"));
-	// yw.dumpYearWeek(yearWeeks);
-
-	const generator = new PlaylistGenerator(billboard);
-	await generator.constructPlaylists(yearWeeks);
+	await downloadAndCache(weeks);
 })();
