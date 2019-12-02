@@ -10,7 +10,8 @@
     "generate.ts": "ts-node-dev generate.ts",
     "playlist.ts": "ts-node-dev playlist.ts",
     "auth.ts": "ts-node-dev auth.ts",
-    "make-playlist.ts": "ts-node-dev make-playlist.ts 1990"
+    "make-playlist.ts": "ts-node-dev make-playlist.ts 1990",
+    "year-info.ts": "ts-node-dev year-info.ts"
   },
   "keywords": [],
   "author": "",
@@ -23,9 +24,11 @@
     "cache-manager-fs": "^1.0.8",
     "cocache": "^1.2.2",
     "dotenv": "^8.2.0",
+    "fastify": "^2.10.0",
     "moment": "^2.24.0",
     "pretty-ms": "^5.0.0",
     "spotify-web-api-node": "^4.0.0",
+    "tangular": "^2.0.1",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.7.2",
     "update-dotenv": "^1.1.1"

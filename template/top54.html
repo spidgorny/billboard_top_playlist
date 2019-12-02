@@ -23,40 +23,49 @@
 <main role="main">
 
 	<!-- Main jumbotron for a primary marketing message or call to action -->
-	<div class="jumbotron">
+	<div class="jumbotron" style="padding-bottom: 1em; margin-top:2em">
 		<div class="container">
 			<h1 class="display-6">{{year}}</h1>
+			<p>Lorem ipsum...</p>
 		</div>
 	</div>
 
 	<div class="container">
 		<!-- Example row of columns -->
-		<div class="row">
-			<div class="col-md-4">
-				<h2>Heading</h2>
-				<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-				<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-			</div>
-			<div class="col-md-4">
-				<h2>Heading</h2>
-				<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-				<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-			</div>
-			<div class="col-md-4">
-				<h2>Heading</h2>
-				<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-				<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-			</div>
-		</div>
-
-		<hr>
+		<table class="table table-striped">
+			<tbody>
+			{{foreach song in playlist}}
+				<tr>
+					<td>
+						W{{$index+1}}
+					</td>
+					<td>
+						<div>
+							<a href="spotify:track:{{song.spotify.id}}">
+								{{song.title}}
+							</a>
+							<span class="badge badge-success">
+								{{song.position.weeksOnChart}} weeks
+							↑
+							#{{song.position.peakPosition}}</span>
+						</div>
+						<div class="text-muted">{{song.artist}}</div>
+					</td>
+					<td style="width: 64px">
+						<img src="{{song.cover}}" width="64" height="64" style="object-fit: cover"/>
+					</td>
+				</tr>
+			{{end}}
+			</tbody>
+		</table>
 
 	</div> <!-- /container -->
 
 </main>
 
 <footer class="container">
-	<p>&copy; Company 2017-2019</p>
+	<hr>
+	<p>&copy; 2019 https://github.com/spidgorny/billboard-top-playlist</p>
 </footer>
 
 

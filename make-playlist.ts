@@ -59,7 +59,7 @@ const year = 1990;
 		}
 		console.log(playlistID.id, playlistID.name);
 
-		let jsonBuffer = fs.readFileSync('spotify' + year + '.json');
+		let jsonBuffer = fs.readFileSync('spotify/spotify' + year + '.json');
 		const playlist: LocalPlaylistItem[] = JSON.parse(jsonBuffer.toString());
 		const onlyWithID = playlist.filter((el: LocalPlaylistItem) => {
 			return el.spotify.id;

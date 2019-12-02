@@ -105,7 +105,7 @@ async function findOneSong(song: Song) {
 		const results = [];
 		for (const song of playlist) {
 			results.push(await findOneSong(song));
-			fs.writeFileSync('spotify' + year + '.json', JSON.stringify(results, null, '\t'));
+			fs.writeFileSync('spotify/spotify' + year + '.json', JSON.stringify(results, null, '\t'));
 		}
 	} catch (e) {
 		console.error(e);
