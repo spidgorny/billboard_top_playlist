@@ -1,0 +1,447 @@
+[
+	{
+		"artist": "Mariah Carey",
+		"title": "Hero",
+		"spotify": {
+			"id": "4FCb4CUbFCMNRkI6lYc1zI",
+			"artist": "Mariah Carey",
+			"title": "Hero",
+			"album": "Music Box"
+		}
+	},
+	{
+		"artist": "Bryan Adams/Rod Stewart/Sting",
+		"title": "All For Love",
+		"spotify": {}
+	},
+	{
+		"artist": "Toni Braxton",
+		"title": "Breathe Again",
+		"spotify": {
+			"id": "1xFliXOpcu7E89AsDAZ7JV",
+			"artist": "Toni Braxton",
+			"title": "Breathe Again",
+			"album": "Toni Braxton"
+		}
+	},
+	{
+		"artist": "Celine Dion",
+		"title": "The Power Of Love",
+		"spotify": {
+			"id": "5kK1Iru9ogP3Iy1zsANU1n",
+			"artist": "Céline Dion",
+			"title": "The Power of Love",
+			"album": "The Colour Of My Love"
+		}
+	},
+	{
+		"artist": "Ace Of Base",
+		"title": "The Sign",
+		"spotify": {
+			"id": "0hrBpAOgrt8RXigk83LLNE",
+			"artist": "Ace of Base",
+			"title": "The Sign",
+			"album": "The Sign (US Album) [Remastered]"
+		}
+	},
+	{
+		"artist": "Salt-N-Pepa Featuring En Vogue",
+		"title": "Whatta Man",
+		"spotify": {
+			"id": "7sJN693sYKEIEMu7fc5VnJ",
+			"artist": "Salt-N-Pepa",
+			"title": "Whatta Man",
+			"album": "Very Necessary"
+		}
+	},
+	{
+		"artist": "Mariah Carey",
+		"title": "Without You/Never Forget You",
+		"spotify": {}
+	},
+	{
+		"artist": "All-4-One",
+		"title": "So Much In Love",
+		"spotify": {
+			"id": "1J1Wz0UPt4NPp4MMwSJCcz",
+			"artist": "All-4-One",
+			"title": "So Much in Love",
+			"album": "All-4-One"
+		}
+	},
+	{
+		"artist": "Richard Marx",
+		"title": "Now And Forever",
+		"spotify": {
+			"id": "2V2pxcEfn5zs79sE7qcewA",
+			"artist": "Richard Marx",
+			"title": "Now And Forever",
+			"album": "Paid Vacation"
+		}
+	},
+	{
+		"artist": "R. Kelly",
+		"title": "Bump N' Grind",
+		"spotify": {
+			"id": "0DBIL8arX0Zo6eAuxNIpik",
+			"artist": "R. Kelly",
+			"title": "Bump n' Grind",
+			"album": "12 Play"
+		}
+	},
+	{
+		"artist": "Snoop Doggy Dogg",
+		"title": "Gin And Juice",
+		"spotify": {
+			"id": "0WKYRFtH6KKbaNWjsxqm70",
+			"artist": "Snoop Dogg",
+			"title": "Gin And Juice (feat. Dat Nigga Daz)",
+			"album": "Doggystyle"
+		}
+	},
+	{
+		"artist": "US3",
+		"title": "Cantaloop (Flip Fantasia)",
+		"spotify": {
+			"id": "2AnTuxahfcAS7dGxGZnihY",
+			"artist": "Us3",
+			"title": "Cantaloop (Flip Fantasia)",
+			"album": "Hand On The Torch"
+		}
+	},
+	{
+		"artist": "Crash Test Dummies",
+		"title": "Mmm Mmm Mmm Mmm",
+		"spotify": {
+			"id": "76nvqWPFucUra1xCkN1tnD",
+			"artist": "Crash Test Dummies",
+			"title": "Mmm Mmm Mmm Mmm",
+			"album": "God Shuffled His Feet"
+		}
+	},
+	{
+		"artist": "Prince",
+		"title": "The Most Beautiful Girl In The World",
+		"spotify": {
+			"id": "2TAdelKqtPjyHWYMMkcmVX",
+			"artist": "The Prince Tribute Band",
+			"title": "The Most Beautiful Girl In The World",
+			"album": "An Acoustic Tribute To Prince"
+		}
+	},
+	{
+		"artist": "Bruce Springsteen",
+		"title": "Streets Of Philadelphia (From \"Philadelphia\")",
+		"spotify": {
+			"id": "5Nj8kBJdpJJ4I9wxQyp8JH",
+			"artist": "Bruce Springsteen",
+			"title": "Streets of Philadelphia",
+			"album": "PHILADELPHIA - Music From The Motion Picture"
+		}
+	},
+	{
+		"artist": "Beck",
+		"title": "Loser",
+		"spotify": {
+			"id": "5PntSbMHC1ud6Vvl8x56qd",
+			"artist": "Beck",
+			"title": "Loser",
+			"album": "Mellow Gold"
+		}
+	},
+	{
+		"artist": "Enigma",
+		"title": "Return To Innocence",
+		"spotify": {
+			"id": "2UKkLqST2xWpK8n1b0Xr5Z",
+			"artist": "Enigma",
+			"title": "Return To Innocence",
+			"album": "The Cross Of Changes"
+		}
+	},
+	{
+		"artist": "Madonna",
+		"title": "I'll Remember (From \"With Honors\")",
+		"spotify": {}
+	},
+	{
+		"artist": "Big Mountain",
+		"title": "Baby I Love Your Way (From \"Reality Bites\")",
+		"spotify": {}
+	},
+	{
+		"artist": "All-4-One",
+		"title": "I Swear",
+		"spotify": {
+			"id": "4WUnM4KNZ0kjp0CUeoyOnS",
+			"artist": "All-4-One",
+			"title": "I Swear",
+			"album": "All-4-One"
+		}
+	},
+	{
+		"artist": "Toni Braxton",
+		"title": "You Mean The World To Me",
+		"spotify": {
+			"id": "1d0GYRpnCb0XNQcQdKhfKL",
+			"artist": "Toni Braxton",
+			"title": "You Mean the World to Me",
+			"album": "Toni Braxton"
+		}
+	},
+	{
+		"artist": "Ace Of Base",
+		"title": "Don't Turn Around",
+		"spotify": {}
+	},
+	{
+		"artist": "Janet Jackson",
+		"title": "Any Time, Any Place/And On And On",
+		"spotify": {}
+	},
+	{
+		"artist": "Warren G & Nate Dogg",
+		"title": "Regulate (From \"Above The Rim\")",
+		"spotify": {}
+	},
+	{
+		"artist": "Aaliyah",
+		"title": "Back & Forth",
+		"spotify": {
+			"id": "45wneA2j0Z0WMnYNDO6Ad0",
+			"artist": "Aaliyah",
+			"title": "Back & Forth",
+			"album": "Age Ain't Nothing But A Number"
+		}
+	},
+	{
+		"artist": "Lisa Loeb & Nine Stories",
+		"title": "Stay (I Missed You) (From \"Reality Bites\")",
+		"spotify": {}
+	},
+	{
+		"artist": "Elton John",
+		"title": "Can You Feel The Love Tonight (From \"The Lion King\")",
+		"spotify": {
+			"id": "0EANX0OVKSCcmarY50Xa4p",
+			"artist": "Elton John",
+			"title": "Can You Feel the Love Tonight - End Title/ From \"The Lion King\"/Soundtrack Version",
+			"album": "The Lion King"
+		}
+	},
+	{
+		"artist": "Coolio",
+		"title": "Fantastic Voyage",
+		"spotify": {
+			"id": "3QlTzofanSqDWywxEzGGE2",
+			"artist": "Coolio",
+			"title": "Fantastic Voyage",
+			"album": "It Takes a Thief"
+		}
+	},
+	{
+		"artist": "Da Brat",
+		"title": "Funkdafied",
+		"spotify": {
+			"id": "29VrHhpC5AS9b7XJYDPhqb",
+			"artist": "Da Brat",
+			"title": "Funkdafied",
+			"album": "Funkdafied"
+		}
+	},
+	{
+		"artist": "John Mellencamp With Me'Shell Ndegeocello",
+		"title": "Wild Night",
+		"spotify": {}
+	},
+	{
+		"artist": "Jon Secada",
+		"title": "If You Go",
+		"spotify": {
+			"id": "3b2JWlZ020qGdaDtcO7Gyy",
+			"artist": "Jon Secada",
+			"title": "If You Go",
+			"album": "Sólo Lo Mejor: 20 Exitos"
+		}
+	},
+	{
+		"artist": "Collective Soul",
+		"title": "Shine",
+		"spotify": {
+			"id": "6emdJW80SbDBMuHci8PJJn",
+			"artist": "Collective Soul",
+			"title": "Shine",
+			"album": "Hints, Allegations & Things Left Unsaid"
+		}
+	},
+	{
+		"artist": "Boyz II Men",
+		"title": "I'll Make Love To You",
+		"spotify": {}
+	},
+	{
+		"artist": "Babyface",
+		"title": "When Can I See You",
+		"spotify": {
+			"id": "2zItQNJrVrTioXTXWiI2ed",
+			"artist": "Babyface",
+			"title": "When Can I See You",
+			"album": "For The Cool In You"
+		}
+	},
+	{
+		"artist": "Changing Faces",
+		"title": "Stroke You Up",
+		"spotify": {
+			"id": "4VcV0t8VN6AZcWTznJOUUN",
+			"artist": "Changing Faces",
+			"title": "Stroke You Up",
+			"album": "Changing Faces"
+		}
+	},
+	{
+		"artist": "Warren G",
+		"title": "This D.J.",
+		"spotify": {
+			"id": "2ImuQo1g14CTR9hZAZD3aQ",
+			"artist": "Warren G",
+			"title": "This D.J.",
+			"album": "Regulate… G Funk Era"
+		}
+	},
+	{
+		"artist": "Luther Vandross & Mariah Carey",
+		"title": "Endless Love",
+		"spotify": {}
+	},
+	{
+		"artist": "Sheryl Crow",
+		"title": "All I Wanna Do",
+		"spotify": {
+			"id": "3ZpQiJ78LKINrW9SQTgbXd",
+			"artist": "Sheryl Crow",
+			"title": "All I Wanna Do",
+			"album": "Tuesday Night Music Club"
+		}
+	},
+	{
+		"artist": "Aaliyah",
+		"title": "At Your Best (You Are Love)",
+		"spotify": {
+			"id": "4lRrk574qIHpoEEKC1zuam",
+			"artist": "Aaliyah",
+			"title": "At Your Best (You Are Love)",
+			"album": "Age Ain't Nothing But A Number"
+		}
+	},
+	{
+		"artist": "Immature",
+		"title": "Never Lie",
+		"spotify": {
+			"id": "62utntNdsx80hraXA5ha0Q",
+			"artist": "Immature",
+			"title": "Never Lie",
+			"album": "Playtyme Is Over"
+		}
+	},
+	{
+		"artist": "Madonna",
+		"title": "Secret",
+		"spotify": {
+			"id": "15FcP9qwmIKqaD5NhfhNpu",
+			"artist": "Madonna",
+			"title": "Secret",
+			"album": "Bedtime Stories"
+		}
+	},
+	{
+		"artist": "Real McCoy",
+		"title": "Another Night",
+		"spotify": {
+			"id": "3pEuO9J2MTEmec8kUfYYvl",
+			"artist": "Real McCoy",
+			"title": "Another Night",
+			"album": "Another Night"
+		}
+	},
+	{
+		"artist": "Bon Jovi",
+		"title": "Always",
+		"spotify": {
+			"id": "2RChe0r2cMoyOvuKobZy44",
+			"artist": "Bon Jovi",
+			"title": "Always",
+			"album": "Cross Road"
+		}
+	},
+	{
+		"artist": "Ini Kamoze",
+		"title": "Here Comes The Hotstepper (From \"Ready To Wear\")",
+		"spotify": {}
+	},
+	{
+		"artist": "Brandy",
+		"title": "I Wanna Be Down",
+		"spotify": {
+			"id": "6N9uyMZf9pbNOuomveWscp",
+			"artist": "Brandy",
+			"title": "I Wanna Be Down",
+			"album": "Brandy"
+		}
+	},
+	{
+		"artist": "Janet Jackson",
+		"title": "You Want This/70's Love Groove",
+		"spotify": {}
+	},
+	{
+		"artist": "Boyz II Men",
+		"title": "On Bended Knee",
+		"spotify": {
+			"id": "7MYmo0JJJDmu4MZTSAF9y3",
+			"artist": "Boyz II Men",
+			"title": "On Bended Knee",
+			"album": "II"
+		}
+	},
+	{
+		"artist": "TLC",
+		"title": "Creep",
+		"spotify": {
+			"id": "1aWV3uY3SIEZVbmv45oFWS",
+			"artist": "TLC",
+			"title": "Creep",
+			"album": "Crazysexycool"
+		}
+	},
+	{
+		"artist": "Melissa Etheridge",
+		"title": "I'm The Only One",
+		"spotify": {}
+	},
+	{
+		"artist": "BLACKstreet",
+		"title": "Before I Let You Go",
+		"spotify": {
+			"id": "2rkVoKVEMuct8SmEIGKzBw",
+			"artist": "Blackstreet",
+			"title": "Before I Let You Go",
+			"album": "Blackstreet"
+		}
+	},
+	{
+		"artist": "69 Boyz",
+		"title": "Tootsee Roll",
+		"spotify": {
+			"id": "0SAIjVOwxVnO1l9HGvLuOU",
+			"artist": "69 Boyz",
+			"title": "Tootsee Roll (Dance Version)",
+			"album": "199 Quad (w/ Bonus Dvd)"
+		}
+	},
+	{
+		"artist": "4PM",
+		"title": "Sukiyaki",
+		"spotify": {}
+	}
+]

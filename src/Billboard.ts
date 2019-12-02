@@ -1,6 +1,12 @@
 const {getChart} = require('billboard-top-100');
 const cache = require('cacache');
 
+async function sleep(ms) {
+	return new Promise((resolve, reject) => {
+		setTimeout(resolve, ms);
+	});
+}
+
 export interface Song {
 	rank: number;
 	title: string;
@@ -64,7 +70,9 @@ export class Billboard {
 	async fetchChartFromCache(dateYMD: string): Promise<Chart> {
 		return await this.cacheGetSet(dateYMD, async () => {
 			console.log(dateYMD);
-			return await this.fetchChartFor(dateYMD);
+			let chartData = await this.fetchChartFor(dateYMD);
+			await sleep(1000 * 30);
+			return chartData;
 		});
 	}
 

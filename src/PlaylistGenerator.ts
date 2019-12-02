@@ -25,7 +25,7 @@ export class PlaylistGenerator {
 		}).length > 0;
 	}
 
-	async constructYearPlaylist(weeks: moment.Moment[]) {
+	async constructYearPlaylist(weeks: moment.Moment[]): Promise<Song[]> {
 		const playlist = [];
 		for (const week of weeks) {
 			let ymd = week.format('Y-MM-DD');

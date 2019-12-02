@@ -1,14 +1,22 @@
 import {Poster} from "./src/Poster";
+import * as fs from "fs";
+const marked = require('marked');
 
 const fastify = require('fastify')({logger: true});
 
 // Declare a route
 fastify.get('/', async (request, reply) => {
+	const md = fs.readFileSync('README.md').toString();
+	const html = marked(md);
+	reply.type('text/html').send(html);
+});
+
+fastify.get('/hello', async (request, reply) => {
 	return {hello: 'world'}
 });
 
 fastify.get('/year/:year', async (request, reply) => {
-	const year = request.params.year;
+	const year = parseInt(request.params.year, 10);
 	const poster = new Poster(year);
 	const output = poster.render();
 	reply.type('text/html').send(output);

@@ -8,7 +8,8 @@ async function downloadAndCache(yearWeeks: moment.Moment[]) {
 	for (const date of yearWeeks) {
 		// console.log(date.format('Y-MM-DD'));
 		try {
-			const chart: Chart = await billboard.fetchChartFromCache(date.format('Y-MM-DD'));
+			let dateYMD = date.format('Y-MM-DD');
+			const chart: Chart = await billboard.fetchChartFromCache(dateYMD);
 		} catch (e) {
 			// Rate limit reached
 			break;
