@@ -4,10 +4,18 @@ const marked = require('marked');
 
 const fastify = require('fastify')({logger: true});
 
+fastify.register(require('fastify-static'), {
+	root: __dirname,
+});
+
 // Declare a route
 fastify.get('/', async (request, reply) => {
 	const md = fs.readFileSync('README.md').toString();
-	const html = marked(md);
+	let readme = marked(md);
+	readme = readme.replace('alt="">', 'class="width-fit">');	// <img>
+
+	let html = fs.readFileSync('template/index.html').toString();
+	html = html.replace('{readme}', readme);
 	reply.type('text/html').send(html);
 });
 
