@@ -1,5 +1,6 @@
 const {getChart} = require('billboard-top-100');
 const cache = require('cacache');
+import * as moment from "moment";
 
 async function sleep(ms) {
 	return new Promise((resolve, reject) => {
@@ -69,7 +70,7 @@ export class Billboard {
 
 	async fetchChartFromCache(dateYMD: string): Promise<Chart> {
 		return await this.cacheGetSet(dateYMD, async () => {
-			console.log(dateYMD);
+			console.log(moment().format('Y-MM-DD HH:II:SS'), dateYMD);
 			let chartData = await this.fetchChartFor(dateYMD);
 			await sleep(1000 * 30);
 			return chartData;
