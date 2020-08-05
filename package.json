@@ -26,7 +26,7 @@
     "cache-manager-fs": "^1.0.8",
     "cocache": "^1.2.2",
     "dotenv": "^8.2.0",
-    "fastify": "^2.10.0",
+    "fastify": "^2.15.1",
     "fastify-static": "^2.5.1",
     "marked": "^0.7.0",
     "moment": "^2.24.0",
