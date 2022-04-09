@@ -29,7 +29,7 @@
     "fastify": "^2.15.1",
     "fastify-static": "^4.4.1",
     "marked": "^4.0.10",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^7.0.0",
     "pretty-ms": "^5.0.0",
     "spotify-web-api-node": "^4.0.0",
